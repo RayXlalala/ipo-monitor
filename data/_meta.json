@@ -1,0 +1,37 @@
+{
+  "updatedAt": "2026-04-30T07:58:32.581Z",
+  "counts": {
+    "aShares": {
+      "total": 1669,
+      "byStatus": {
+        "inquired": 137,
+        "accepted": 1274,
+        "submitted": 6,
+        "passed": 12,
+        "effective": 95,
+        "terminated": 27,
+        "suspended": 117,
+        "committee": 1
+      }
+    },
+    "hShares": {
+      "total": 8,
+      "byStatus": {
+        "submitted": 1,
+        "accepted": 2,
+        "passed": 1,
+        "inquired": 1,
+        "terminated": 1,
+        "effective": 1,
+        "committee": 1
+      }
+    }
+  },
+  "sourceErrors": [
+    {
+      "source": "hkex",
+      "message": "HKEx 自动抓取尚未实现（v2 计划通过 Playwright 解析 Application Proofs / PHIP）",
+      "at": "2026-04-30T07:58:32.581Z"
+    }
+  ]
+}
