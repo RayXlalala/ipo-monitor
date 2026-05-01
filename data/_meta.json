@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T14:52:18.153Z",
+  "updatedAt": "2026-05-01T20:39:22.906Z",
   "counts": {
     "aShares": {
       "total": 1669,
@@ -31,7 +31,7 @@
     {
       "source": "hkex",
       "message": "HKEx 自动抓取尚未实现（v2 计划通过 Playwright 解析 Application Proofs / PHIP）",
-      "at": "2026-05-01T14:52:18.153Z"
+      "at": "2026-05-01T20:39:22.906Z"
     }
   ]
 }
