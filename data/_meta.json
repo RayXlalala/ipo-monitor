@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-05-04T21:45:37.573Z",
+  "updatedAt": "2026-05-05T21:40:38.886Z",
   "counts": {
     "aShares": {
       "total": 1668,
       "byStatus": {
+        "submitted": 6,
         "accepted": 1276,
         "passed": 12,
         "inquired": 147,
-        "submitted": 6,
         "effective": 95,
         "terminated": 26,
         "suspended": 105,
@@ -31,7 +31,7 @@
     {
       "source": "hkex",
       "message": "HKEx 自动抓取尚未实现（v2 计划通过 Playwright 解析 Application Proofs / PHIP）",
-      "at": "2026-05-04T21:45:37.573Z"
+      "at": "2026-05-05T21:40:38.886Z"
     }
   ]
 }
