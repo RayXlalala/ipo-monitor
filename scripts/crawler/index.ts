@@ -38,10 +38,9 @@ const ACTIVE_STATUS = new Set<ReviewStatus>([
   'committee',
   'passed',
   'submitted',
-  'suspended',
 ]);
 
-/** 聚焦"拟发行"：保留全部活跃状态 + 近 12 个月生效 + 近 6 个月终止 */
+/** 聚焦"拟发行"：保留全部活跃状态 + 近 12 个月生效/中止 + 近 6 个月终止 */
 function focusOnPending(list: Company[]): Company[] {
   const now = Date.now();
   const within = (iso: string | undefined, days: number): boolean => {
@@ -53,6 +52,7 @@ function focusOnPending(list: Company[]): Company[] {
   return list.filter((c) => {
     if (ACTIVE_STATUS.has(c.status)) return true;
     if (c.status === 'effective') return within(c.updateDate, 365);
+    if (c.status === 'suspended') return within(c.updateDate, 365);
     if (c.status === 'terminated') return within(c.updateDate, 180);
     return false;
   });
@@ -95,7 +95,7 @@ async function main() {
     hShares = await readJson<Company[]>('h-shares.json', []);
     console.log(`  ⚠ H 股保留现有 ${hShares.length} 家（未实现自动抓取）`);
   } else {
-    hShares = sortByUpdate(dedup(hk.companies));
+    hShares = sortByUpdate(focusOnPending(dedup(hk.companies)));
     console.log(`  ✔ H 股 ${hShares.length} 家`);
   }
 

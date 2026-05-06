@@ -1,37 +1,26 @@
 {
-  "updatedAt": "2026-05-05T21:40:38.886Z",
+  "updatedAt": "2026-05-06T06:07:31.500Z",
   "counts": {
     "aShares": {
-      "total": 1668,
+      "total": 1664,
       "byStatus": {
         "submitted": 6,
-        "accepted": 1276,
-        "passed": 12,
         "inquired": 147,
-        "effective": 95,
-        "terminated": 26,
-        "suspended": 105,
+        "passed": 12,
+        "accepted": 1276,
+        "effective": 94,
+        "terminated": 25,
+        "suspended": 103,
         "committee": 1
       }
     },
     "hShares": {
-      "total": 8,
+      "total": 524,
       "byStatus": {
-        "submitted": 1,
-        "accepted": 2,
-        "passed": 1,
-        "inquired": 1,
-        "terminated": 1,
-        "effective": 1,
-        "committee": 1
+        "accepted": 394,
+        "suspended": 130
       }
     }
   },
-  "sourceErrors": [
-    {
-      "source": "hkex",
-      "message": "HKEx 自动抓取尚未实现（v2 计划通过 Playwright 解析 Application Proofs / PHIP）",
-      "at": "2026-05-05T21:40:38.886Z"
-    }
-  ]
+  "sourceErrors": []
 }
