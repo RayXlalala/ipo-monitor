@@ -1,5 +1,16 @@
 [
   {
+    "id": "hk:main:108512",
+    "name": "Kexing Biopharm Co., Ltd.",
+    "nameEn": "Kexing Biopharm Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-06T00:00:00.000Z",
+    "acceptDate": "2026-05-06T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108512/documents/sehk26050602893.pdf"
+  },
+  {
     "id": "hk:main:108511",
     "name": "Yusheng Holdings Limited",
     "nameEn": "Yusheng Holdings Limited",
@@ -2332,17 +2343,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108158/documents/sehk26012801303.pdf"
   },
   {
-    "id": "hk:main:108182",
-    "name": "TenNor Therapeutics (Suzhou) Limited",
-    "nameEn": "TenNor Therapeutics (Suzhou) Limited - B",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-02-03T00:00:00.000Z",
-    "acceptDate": "2026-02-03T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108182/documents/sehk26020301692.pdf"
-  },
-  {
     "id": "hk:main:108119",
     "name": "PrimeGenX Therapeutics Co., Ltd.",
     "nameEn": "PrimeGenX Therapeutics Co., Ltd. - B",
@@ -4147,17 +4147,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107896/documents/sehk25112702043.pdf"
   },
   {
-    "id": "hk:main:107893",
-    "name": "Shanghai Top Numerical Control Technology Co., Ltd.",
-    "nameEn": "Shanghai Top Numerical Control Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-26T00:00:00.000Z",
-    "acceptDate": "2025-11-26T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107893/documents/sehk25112601483.pdf"
-  },
-  {
     "id": "hk:main:107857",
     "name": "Zhejiang Shimai Pharmaceutical Co., Ltd.",
     "nameEn": "Zhejiang Shimai Pharmaceutical Co., Ltd. - B",
@@ -4327,33 +4316,11 @@
     "name": "GoNature Outdoor Sports Group Co., Ltd. (formerly known as Boxihe Outdoor Sports Group Co., Ltd.)",
     "nameEn": "GoNature Outdoor Sports Group Co., Ltd. (formerly known as Boxihe Outdoor Sports Group Co., Ltd.)",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-07T00:00:00.000Z",
     "acceptDate": "2025-11-07T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107847/documents/sehk25110701625.pdf"
-  },
-  {
-    "id": "hk:main:107848",
-    "name": "Nanjing Healthnice Pharmaceutical Technology Co., Ltd.",
-    "nameEn": "Nanjing Healthnice Pharmaceutical Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-07T00:00:00.000Z",
-    "acceptDate": "2025-11-07T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107848/documents/sehk25110701869.pdf"
-  },
-  {
-    "id": "hk:main:107849",
-    "name": "WinHealth International Holding Group Company Limited",
-    "nameEn": "WinHealth International Holding Group Company Limited",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-07T00:00:00.000Z",
-    "acceptDate": "2025-11-07T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107849/documents/sehk25110701729.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107845",
