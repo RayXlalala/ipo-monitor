@@ -47,6 +47,7 @@ export default function CompanyExplorer({ companies, markets }: Props) {
         return (
           c.name.toLowerCase().includes(q) ||
           (c.nameEn ?? '').toLowerCase().includes(q) ||
+          (c.nameCn ?? '').toLowerCase().includes(q) ||
           (c.sponsor ?? '').toLowerCase().includes(q) ||
           (c.industry ?? '').toLowerCase().includes(q)
         );
@@ -167,12 +168,16 @@ export default function CompanyExplorer({ companies, markets }: Props) {
                         rel="noopener noreferrer"
                         className="font-medium text-foreground hover:text-accent"
                       >
-                        {c.name}
+                        {c.nameCn || c.name}
                       </a>
                     ) : (
-                      <span className="font-medium">{c.name}</span>
+                      <span className="font-medium">{c.nameCn || c.name}</span>
                     )}
-                    {c.nameEn ? (
+                    {c.nameCn ? (
+                      <div className="mt-0.5 truncate text-xs text-muted">
+                        {c.name}
+                      </div>
+                    ) : c.nameEn ? (
                       <div className="mt-0.5 truncate text-xs text-muted">
                         {c.nameEn}
                       </div>
@@ -224,12 +229,14 @@ export default function CompanyExplorer({ companies, markets }: Props) {
                       rel="noopener noreferrer"
                       className="text-sm font-medium hover:text-accent"
                     >
-                      {c.name}
+                      {c.nameCn || c.name}
                     </a>
                   ) : (
-                    <span className="text-sm font-medium">{c.name}</span>
+                    <span className="text-sm font-medium">{c.nameCn || c.name}</span>
                   )}
                   <div className="mt-1 text-xs text-muted">
+                    {c.nameCn ? c.name : c.nameEn ? c.nameEn : null}
+                    {c.nameCn || c.nameEn ? ' · ' : null}
                     {MARKET_LABEL[c.market]}
                     {c.industry ? <> · {c.industry}</> : null}
                   </div>

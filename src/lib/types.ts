@@ -25,6 +25,7 @@ export interface Company {
   id: string;
   name: string;
   nameEn?: string;
+  nameCn?: string;
   market: Market;
   status: ReviewStatus;
   industry?: string;

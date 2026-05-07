@@ -19,7 +19,8 @@
     "updateDate": "2026-05-06T00:00:00.000Z",
     "acceptDate": "2026-05-06T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108511/documents/sehk26050600118.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108511/documents/sehk26050600118.pdf",
+    "nameCn": "域生控股"
   },
   {
     "id": "hk:main:108510",
@@ -30,7 +31,8 @@
     "updateDate": "2026-05-05T00:00:00.000Z",
     "acceptDate": "2026-05-05T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108510/documents/sehk26050501857.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108510/documents/sehk26050501857.pdf",
+    "nameCn": "科拓停车"
   },
   {
     "id": "hk:main:108509",
@@ -63,7 +65,8 @@
     "updateDate": "2026-05-04T00:00:00.000Z",
     "acceptDate": "2026-05-04T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108507/documents/sehk26050403485.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108507/documents/sehk26050403485.pdf",
+    "nameCn": "杭州千岛湖迅龙科技"
   },
   {
     "id": "hk:main:108508",
@@ -74,7 +77,8 @@
     "updateDate": "2026-05-04T00:00:00.000Z",
     "acceptDate": "2026-05-04T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108508/documents/sehk26050403723.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108508/documents/sehk26050403723.pdf",
+    "nameCn": "江西生物制品研究所"
   },
   {
     "id": "hk:main:108506",
@@ -85,7 +89,8 @@
     "updateDate": "2026-05-04T00:00:00.000Z",
     "acceptDate": "2026-05-04T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108506/documents/sehk26050400896.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108506/documents/sehk26050400896.pdf",
+    "nameCn": "泽风智能系统（上海）"
   },
   {
     "id": "hk:main:108493",
@@ -96,7 +101,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108493/documents/sehk26043004611.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108493/documents/sehk26043004611.pdf",
+    "nameCn": "安徽华恒生物科技"
   },
   {
     "id": "hk:main:108451",
@@ -118,7 +124,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108492/documents/sehk26043004423.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108492/documents/sehk26043004423.pdf",
+    "nameCn": "俊奇控股"
   },
   {
     "id": "hk:main:108488",
@@ -140,7 +147,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108491/documents/sehk26043004089.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108491/documents/sehk26043004089.pdf",
+    "nameCn": "珀莱雅化妆品"
   },
   {
     "id": "hk:main:108490",
@@ -151,7 +159,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108490/documents/sehk26043003971.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108490/documents/sehk26043003971.pdf",
+    "nameCn": "上海新榜信息科技"
   },
   {
     "id": "hk:main:108489",
@@ -162,7 +171,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108489/documents/sehk26043003575.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108489/documents/sehk26043003575.pdf",
+    "nameCn": "山推工程机械"
   },
   {
     "id": "hk:main:108487",
@@ -173,7 +183,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108487/documents/sehk26043002708.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108487/documents/sehk26043002708.pdf",
+    "nameCn": "四川新荷花中药饮片"
   },
   {
     "id": "hk:gem:108494",
@@ -184,7 +195,8 @@
     "updateDate": "2026-04-30T00:00:00.000Z",
     "acceptDate": "2026-04-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/gem/2026/108494/documents/gem26043004753.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/gem/2026/108494/documents/gem26043004753.pdf",
+    "nameCn": "龙宏新材料集团"
   },
   {
     "id": "hk:main:108486",
@@ -195,7 +207,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/appindex.html"
+    "rawUrl": "https://www1.hkexnews.hk/app/appindex.html",
+    "nameCn": "龙矿资源"
   },
   {
     "id": "hk:main:108485",
@@ -228,7 +241,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-16T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108444/documents/sehk26041601923.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108444/documents/sehk26041601923.pdf",
+    "nameCn": "江苏华盛锂电新能源材料"
   },
   {
     "id": "hk:main:108458",
@@ -239,7 +253,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-22T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108458/documents/sehk26042202191.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108458/documents/sehk26042202191.pdf",
+    "nameCn": "南京领行科技"
   },
   {
     "id": "hk:main:108480",
@@ -250,7 +265,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108480/documents/sehk26042903959.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108480/documents/sehk26042903959.pdf",
+    "nameCn": "纳狮智能科技（浙江）"
   },
   {
     "id": "hk:main:108481",
@@ -261,7 +277,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108481/documents/sehk26042904997.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108481/documents/sehk26042904997.pdf",
+    "nameCn": "上海百快BMax科技服务集团"
   },
   {
     "id": "hk:main:108482",
@@ -272,7 +289,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108482/documents/sehk26042905483.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108482/documents/sehk26042905483.pdf",
+    "nameCn": "上海富瀚微电子"
   },
   {
     "id": "hk:main:108479",
@@ -283,7 +301,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108479/documents/sehk26042902289.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108479/documents/sehk26042902289.pdf",
+    "nameCn": "深圳云天励飞技术"
   },
   {
     "id": "hk:main:108483",
@@ -294,7 +313,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108483/documents/sehk26042905561.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108483/documents/sehk26042905561.pdf",
+    "nameCn": "坦博尔集团"
   },
   {
     "id": "hk:main:108478",
@@ -305,7 +325,8 @@
     "updateDate": "2026-04-29T00:00:00.000Z",
     "acceptDate": "2026-04-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108478/documents/sehk26042900256.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108478/documents/sehk26042900256.pdf",
+    "nameCn": "万益蓝益生菌"
   },
   {
     "id": "hk:main:108476",
@@ -316,7 +337,8 @@
     "updateDate": "2026-04-28T00:00:00.000Z",
     "acceptDate": "2026-04-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108476/documents/sehk26042804898.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108476/documents/sehk26042804898.pdf",
+    "nameCn": "安慕斯食品集团"
   },
   {
     "id": "hk:main:108475",
@@ -327,7 +349,8 @@
     "updateDate": "2026-04-28T00:00:00.000Z",
     "acceptDate": "2026-04-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108475/documents/sehk26042805160.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108475/documents/sehk26042805160.pdf",
+    "nameCn": "北京戴纳实验科技"
   },
   {
     "id": "hk:main:108477",
@@ -338,7 +361,8 @@
     "updateDate": "2026-04-28T00:00:00.000Z",
     "acceptDate": "2026-04-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108477/documents/sehk26042804992.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108477/documents/sehk26042804992.pdf",
+    "nameCn": "科利普科技集团"
   },
   {
     "id": "hk:main:108473",
@@ -349,7 +373,8 @@
     "updateDate": "2026-04-28T00:00:00.000Z",
     "acceptDate": "2026-04-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108473/documents/sehk26042804160.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108473/documents/sehk26042804160.pdf",
+    "nameCn": "深圳创智半导体连接技术"
   },
   {
     "id": "hk:main:108472",
@@ -360,7 +385,8 @@
     "updateDate": "2026-04-28T00:00:00.000Z",
     "acceptDate": "2026-04-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108472/documents/sehk26042802304.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108472/documents/sehk26042802304.pdf",
+    "nameCn": "深圳汇川技术"
   },
   {
     "id": "hk:main:108474",
@@ -371,7 +397,8 @@
     "updateDate": "2026-04-28T00:00:00.000Z",
     "acceptDate": "2026-04-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108474/documents/sehk26042804614.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108474/documents/sehk26042804614.pdf",
+    "nameCn": "武汉硅集成"
   },
   {
     "id": "hk:main:108460",
@@ -382,7 +409,8 @@
     "updateDate": "2026-04-27T00:00:00.000Z",
     "acceptDate": "2026-04-27T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108460/documents/sehk26042702865.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108460/documents/sehk26042702865.pdf",
+    "nameCn": "重庆阿法里科技"
   },
   {
     "id": "hk:main:108471",
@@ -393,7 +421,8 @@
     "updateDate": "2026-04-27T00:00:00.000Z",
     "acceptDate": "2026-04-27T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108471/documents/sehk26042703391.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108471/documents/sehk26042703391.pdf",
+    "nameCn": "格林美"
   },
   {
     "id": "hk:main:108469",
@@ -404,7 +433,8 @@
     "updateDate": "2026-04-27T00:00:00.000Z",
     "acceptDate": "2026-04-27T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108469/documents/sehk26042700426.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108469/documents/sehk26042700426.pdf",
+    "nameCn": "广州若羽臣科技"
   },
   {
     "id": "hk:main:108443",
@@ -415,7 +445,8 @@
     "updateDate": "2026-04-27T00:00:00.000Z",
     "acceptDate": "2026-04-13T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108443/documents/sehk26041301459.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108443/documents/sehk26041301459.pdf",
+    "nameCn": "华工科技"
   },
   {
     "id": "hk:main:108470",
@@ -437,7 +468,8 @@
     "updateDate": "2026-04-24T00:00:00.000Z",
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108467/documents/sehk26042403895.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108467/documents/sehk26042403895.pdf",
+    "nameCn": "滨化集团"
   },
   {
     "id": "hk:main:108464",
@@ -459,7 +491,8 @@
     "updateDate": "2026-04-24T00:00:00.000Z",
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108466/documents/sehk26042403757.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108466/documents/sehk26042403757.pdf",
+    "nameCn": "卡拉罗中国传动系统"
   },
   {
     "id": "hk:main:108462",
@@ -481,7 +514,8 @@
     "updateDate": "2026-04-24T00:00:00.000Z",
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108468/documents/sehk26042403975.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108468/documents/sehk26042403975.pdf",
+    "nameCn": "好润集团"
   },
   {
     "id": "hk:main:108463",
@@ -492,7 +526,8 @@
     "updateDate": "2026-04-24T00:00:00.000Z",
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108463/documents/sehk26042403313.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108463/documents/sehk26042403313.pdf",
+    "nameCn": "美科新能源科技"
   },
   {
     "id": "hk:main:108461",
@@ -503,7 +538,8 @@
     "updateDate": "2026-04-24T00:00:00.000Z",
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108461/documents/sehk26042400514.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108461/documents/sehk26042400514.pdf",
+    "nameCn": "阳光电源"
   },
   {
     "id": "hk:main:108465",
@@ -514,7 +550,8 @@
     "updateDate": "2026-04-24T00:00:00.000Z",
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108465/documents/sehk26042403683.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108465/documents/sehk26042403683.pdf",
+    "nameCn": "望圆智能科技"
   },
   {
     "id": "hk:main:108459",
@@ -525,7 +562,8 @@
     "updateDate": "2026-04-23T00:00:00.000Z",
     "acceptDate": "2026-04-23T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108459/documents/sehk26042302879.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108459/documents/sehk26042302879.pdf",
+    "nameCn": "捷伟仕（苏州）科技"
   },
   {
     "id": "hk:main:108432",
@@ -536,7 +574,8 @@
     "updateDate": "2026-04-23T00:00:00.000Z",
     "acceptDate": "2026-04-10T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108432/documents/sehk26041000707.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108432/documents/sehk26041000707.pdf",
+    "nameCn": "苏州天孚光通信"
   },
   {
     "id": "hk:main:108456",
@@ -547,7 +586,8 @@
     "updateDate": "2026-04-22T00:00:00.000Z",
     "acceptDate": "2026-04-22T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108456/documents/sehk26042200306.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108456/documents/sehk26042200306.pdf",
+    "nameCn": "北京远信科技集团"
   },
   {
     "id": "hk:main:108457",
@@ -558,7 +598,8 @@
     "updateDate": "2026-04-22T00:00:00.000Z",
     "acceptDate": "2026-04-22T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108457/documents/sehk26042201933.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108457/documents/sehk26042201933.pdf",
+    "nameCn": "湖南明珠矿业化工科技"
   },
   {
     "id": "hk:main:108431",
@@ -569,7 +610,8 @@
     "updateDate": "2026-04-22T00:00:00.000Z",
     "acceptDate": "2026-04-08T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108431/documents/sehk26040802601.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108431/documents/sehk26040802601.pdf",
+    "nameCn": "深圳欢创科技"
   },
   {
     "id": "hk:main:108454",
@@ -591,7 +633,8 @@
     "updateDate": "2026-04-21T00:00:00.000Z",
     "acceptDate": "2026-04-21T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108455/documents/sehk26042101751.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108455/documents/sehk26042101751.pdf",
+    "nameCn": "柏承科技集团"
   },
   {
     "id": "hk:main:108452",
@@ -602,7 +645,8 @@
     "updateDate": "2026-04-20T00:00:00.000Z",
     "acceptDate": "2026-04-20T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108452/documents/sehk26042001783.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108452/documents/sehk26042001783.pdf",
+    "nameCn": "微脉科技"
   },
   {
     "id": "hk:main:108453",
@@ -613,7 +657,8 @@
     "updateDate": "2026-04-20T00:00:00.000Z",
     "acceptDate": "2026-04-20T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108453/documents/sehk26042001857.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108453/documents/sehk26042001857.pdf",
+    "nameCn": "武汉帝尔激光科技"
   },
   {
     "id": "hk:main:108450",
@@ -624,7 +669,8 @@
     "updateDate": "2026-04-17T00:00:00.000Z",
     "acceptDate": "2026-04-17T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108450/documents/sehk26041701684.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108450/documents/sehk26041701684.pdf",
+    "nameCn": "首都证券"
   },
   {
     "id": "hk:main:108410",
@@ -646,7 +692,8 @@
     "updateDate": "2026-04-16T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108408/documents/sehk26040203409.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108408/documents/sehk26040203409.pdf",
+    "nameCn": "卡仕达控股"
   },
   {
     "id": "hk:main:108449",
@@ -657,7 +704,8 @@
     "updateDate": "2026-04-16T00:00:00.000Z",
     "acceptDate": "2026-04-16T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108449/documents/sehk26041601833.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108449/documents/sehk26041601833.pdf",
+    "nameCn": "普瑞姆科技"
   },
   {
     "id": "hk:main:108401",
@@ -668,7 +716,8 @@
     "updateDate": "2026-04-16T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108401/documents/sehk26040202349.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108401/documents/sehk26040202349.pdf",
+    "nameCn": "苏州创迈科技"
   },
   {
     "id": "hk:main:108447",
@@ -679,7 +728,8 @@
     "updateDate": "2026-04-15T00:00:00.000Z",
     "acceptDate": "2026-04-15T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108447/documents/sehk26041501617.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108447/documents/sehk26041501617.pdf",
+    "nameCn": "安诺优达基因科技（北京）"
   },
   {
     "id": "hk:main:108392",
@@ -690,7 +740,8 @@
     "updateDate": "2026-04-14T00:00:00.000Z",
     "acceptDate": "2026-04-01T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108392/documents/sehk26040104033.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108392/documents/sehk26040104033.pdf",
+    "nameCn": "芯原微电子（上海）"
   },
   {
     "id": "hk:main:108441",
@@ -701,7 +752,8 @@
     "updateDate": "2026-04-13T00:00:00.000Z",
     "acceptDate": "2026-04-13T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108441/documents/sehk26041301037.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108441/documents/sehk26041301037.pdf",
+    "nameCn": "星图洞察科技"
   },
   {
     "id": "hk:main:108382",
@@ -712,7 +764,8 @@
     "updateDate": "2026-04-13T00:00:00.000Z",
     "acceptDate": "2026-03-31T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108382/documents/sehk26033103262.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108382/documents/sehk26033103262.pdf",
+    "nameCn": "世达科技集团"
   },
   {
     "id": "hk:main:108440",
@@ -723,7 +776,8 @@
     "updateDate": "2026-04-12T00:00:00.000Z",
     "acceptDate": "2026-04-12T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108440/documents/sehk26041200324.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108440/documents/sehk26041200324.pdf",
+    "nameCn": "晶晨半导体（上海）"
   },
   {
     "id": "hk:main:108366",
@@ -734,7 +788,8 @@
     "updateDate": "2026-04-12T00:00:00.000Z",
     "acceptDate": "2026-03-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108366/documents/sehk26032900568.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108366/documents/sehk26032900568.pdf",
+    "nameCn": "绿米联创国际"
   },
   {
     "id": "hk:main:108436",
@@ -745,7 +800,8 @@
     "updateDate": "2026-04-12T00:00:00.000Z",
     "acceptDate": "2026-04-12T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108436/documents/sehk26041200026.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108436/documents/sehk26041200026.pdf",
+    "nameCn": "北京中科闻歌科技"
   },
   {
     "id": "hk:main:108437",
@@ -756,7 +812,8 @@
     "updateDate": "2026-04-12T00:00:00.000Z",
     "acceptDate": "2026-04-12T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108437/documents/sehk26041200164.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108437/documents/sehk26041200164.pdf",
+    "nameCn": "惠州德赛西威汽车电子"
   },
   {
     "id": "hk:main:108439",
@@ -767,7 +824,8 @@
     "updateDate": "2026-04-12T00:00:00.000Z",
     "acceptDate": "2026-04-12T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108439/documents/sehk26041200178.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108439/documents/sehk26041200178.pdf",
+    "nameCn": "一然益生菌营养科技（青岛）集团"
   },
   {
     "id": "hk:main:108435",
@@ -778,7 +836,8 @@
     "updateDate": "2026-04-10T00:00:00.000Z",
     "acceptDate": "2026-04-10T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108435/documents/sehk26041001586.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108435/documents/sehk26041001586.pdf",
+    "nameCn": "博福托半导体"
   },
   {
     "id": "hk:main:108433",
@@ -789,7 +848,8 @@
     "updateDate": "2026-04-10T00:00:00.000Z",
     "acceptDate": "2026-04-10T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108433/documents/sehk26041001334.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108433/documents/sehk26041001334.pdf",
+    "nameCn": "好医生云医疗科技集团"
   },
   {
     "id": "hk:main:108434",
@@ -800,7 +860,8 @@
     "updateDate": "2026-04-10T00:00:00.000Z",
     "acceptDate": "2026-04-10T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108434/documents/sehk26041001574.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108434/documents/sehk26041001574.pdf",
+    "nameCn": "深圳华付技术"
   },
   {
     "id": "hk:main:108344",
@@ -811,7 +872,8 @@
     "updateDate": "2026-04-10T00:00:00.000Z",
     "acceptDate": "2026-03-27T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108344/documents/sehk26032704285.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108344/documents/sehk26032704285.pdf",
+    "nameCn": "深圳小阔科技"
   },
   {
     "id": "hk:main:108430",
@@ -822,7 +884,8 @@
     "updateDate": "2026-04-08T00:00:00.000Z",
     "acceptDate": "2026-04-08T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108430/documents/sehk26040802267.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108430/documents/sehk26040802267.pdf",
+    "nameCn": "大金重工"
   },
   {
     "id": "hk:main:108429",
@@ -833,7 +896,8 @@
     "updateDate": "2026-04-08T00:00:00.000Z",
     "acceptDate": "2026-04-08T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108429/documents/sehk26040800244.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108429/documents/sehk26040800244.pdf",
+    "nameCn": "清陶（昆山）能源发展集团"
   },
   {
     "id": "hk:main:108389",
@@ -855,7 +919,8 @@
     "updateDate": "2026-04-07T00:00:00.000Z",
     "acceptDate": "2026-03-25T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108331/documents/sehk26032502124.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108331/documents/sehk26032502124.pdf",
+    "nameCn": "星环信息科技（上海）"
   },
   {
     "id": "hk:main:108428",
@@ -877,7 +942,8 @@
     "updateDate": "2026-04-07T00:00:00.000Z",
     "acceptDate": "2026-03-25T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108326/documents/sehk26032500810.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108326/documents/sehk26032500810.pdf",
+    "nameCn": "元杰半导体科技"
   },
   {
     "id": "hk:main:108398",
@@ -888,7 +954,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108398/documents/sehk26040201999.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108398/documents/sehk26040201999.pdf",
+    "nameCn": "自然堂全球控股"
   },
   {
     "id": "hk:main:108403",
@@ -899,7 +966,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108403/documents/sehk26040202801.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108403/documents/sehk26040202801.pdf",
+    "nameCn": "英劲科技电脑"
   },
   {
     "id": "hk:main:108414",
@@ -910,7 +978,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108414/documents/sehk26040203883.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108414/documents/sehk26040203883.pdf",
+    "nameCn": "广东潮宏基实业"
   },
   {
     "id": "hk:main:108405",
@@ -921,7 +990,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108405/documents/sehk26040203143.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108405/documents/sehk26040203143.pdf",
+    "nameCn": "新希望乳业"
   },
   {
     "id": "hk:main:108321",
@@ -943,7 +1013,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108402/documents/sehk26040202582.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108402/documents/sehk26040202582.pdf",
+    "nameCn": "普源精电科技"
   },
   {
     "id": "hk:main:108412",
@@ -954,7 +1025,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108412/documents/sehk26040203667.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108412/documents/sehk26040203667.pdf",
+    "nameCn": "上海汇伦医药"
   },
   {
     "id": "hk:main:108413",
@@ -965,7 +1037,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108413/documents/sehk26040203821.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108413/documents/sehk26040203821.pdf",
+    "nameCn": "上海 innovaTech 信息科技"
   },
   {
     "id": "hk:main:108415",
@@ -976,7 +1049,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108415/documents/sehk26040203973.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108415/documents/sehk26040203973.pdf",
+    "nameCn": "锐明技术"
   },
   {
     "id": "hk:main:108404",
@@ -987,7 +1061,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108404/documents/sehk26040202893.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108404/documents/sehk26040202893.pdf",
+    "nameCn": "苏州优一微纳科技"
   },
   {
     "id": "hk:main:108407",
@@ -998,7 +1073,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108407/documents/sehk26040203315.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108407/documents/sehk26040203315.pdf",
+    "nameCn": "浙江毛源昌眼镜"
   },
   {
     "id": "hk:gem:108409",
@@ -1009,7 +1085,8 @@
     "updateDate": "2026-04-02T00:00:00.000Z",
     "acceptDate": "2026-04-02T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/gem/2026/108409/documents/gem26040203485.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/gem/2026/108409/documents/gem26040203485.pdf",
+    "nameCn": "山东宝盖新材料科技"
   },
   {
     "id": "hk:main:108390",
@@ -1031,7 +1108,8 @@
     "updateDate": "2026-04-01T00:00:00.000Z",
     "acceptDate": "2026-04-01T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108391/documents/sehk26040103901.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108391/documents/sehk26040103901.pdf",
+    "nameCn": "米联科技"
   },
   {
     "id": "hk:main:108394",
@@ -1042,7 +1120,8 @@
     "updateDate": "2026-04-01T00:00:00.000Z",
     "acceptDate": "2026-04-01T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108394/documents/sehk26040104299.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108394/documents/sehk26040104299.pdf",
+    "nameCn": "圣邦微电子"
   },
   {
     "id": "hk:main:108397",
@@ -1053,7 +1132,8 @@
     "updateDate": "2026-04-01T00:00:00.000Z",
     "acceptDate": "2026-04-01T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108397/documents/sehk26040104509.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108397/documents/sehk26040104509.pdf",
+    "nameCn": "深圳影石创新科技"
   },
   {
     "id": "hk:main:108393",
@@ -1064,7 +1144,8 @@
     "updateDate": "2026-04-01T00:00:00.000Z",
     "acceptDate": "2026-04-01T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108393/documents/sehk26040104159.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108393/documents/sehk26040104159.pdf",
+    "nameCn": "世达星华先进材料集团"
   },
   {
     "id": "hk:main:108395",
@@ -1075,7 +1156,8 @@
     "updateDate": "2026-04-01T00:00:00.000Z",
     "acceptDate": "2026-04-01T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108395/documents/sehk26040104415.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108395/documents/sehk26040104415.pdf",
+    "nameCn": "XREAL"
   },
   {
     "id": "hk:main:108381",
@@ -1086,7 +1168,8 @@
     "updateDate": "2026-03-31T00:00:00.000Z",
     "acceptDate": "2026-03-31T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108381/documents/sehk26033103112.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108381/documents/sehk26033103112.pdf",
+    "nameCn": "瑶芯微（上海）科技"
   },
   {
     "id": "hk:main:108387",
@@ -1097,7 +1180,8 @@
     "updateDate": "2026-03-31T00:00:00.000Z",
     "acceptDate": "2026-03-31T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108387/documents/sehk26033104148.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108387/documents/sehk26033104148.pdf",
+    "nameCn": "北京数据智能互联科技"
   },
   {
     "id": "hk:main:108374",
@@ -1108,7 +1192,8 @@
     "updateDate": "2026-03-31T00:00:00.000Z",
     "acceptDate": "2026-03-31T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108374/documents/sehk26033100290.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108374/documents/sehk26033100290.pdf",
+    "nameCn": "常州微亿智能科技"
   },
   {
     "id": "hk:main:108370",
@@ -4364,7 +4449,8 @@
     "updateDate": "2025-10-31T00:00:00.000Z",
     "acceptDate": "2025-10-16T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "重庆阿法里科技"
   },
   {
     "id": "hk:main:107839",
@@ -4397,7 +4483,8 @@
     "updateDate": "2025-10-31T00:00:00.000Z",
     "acceptDate": "2025-10-31T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "科拓停车"
   },
   {
     "id": "hk:main:107793",
@@ -4452,7 +4539,8 @@
     "updateDate": "2025-10-30T00:00:00.000Z",
     "acceptDate": "2025-10-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "杭州千岛湖迅龙科技"
   },
   {
     "id": "hk:main:107814",
@@ -4507,7 +4595,8 @@
     "updateDate": "2025-10-26T00:00:00.000Z",
     "acceptDate": "2025-10-26T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "江西生物制品研究所"
   },
   {
     "id": "hk:main:107804",
@@ -4529,7 +4618,8 @@
     "updateDate": "2025-10-22T00:00:00.000Z",
     "acceptDate": "2025-10-22T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "滨化集团"
   },
   {
     "id": "hk:main:107798",
@@ -4562,7 +4652,8 @@
     "updateDate": "2025-10-16T00:00:00.000Z",
     "acceptDate": "2025-10-16T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "首都证券"
   },
   {
     "id": "hk:main:107789",
@@ -4595,7 +4686,8 @@
     "updateDate": "2025-09-30T00:00:00.000Z",
     "acceptDate": "2025-09-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "安徽华恒生物科技"
   },
   {
     "id": "hk:main:107754",
@@ -4606,7 +4698,8 @@
     "updateDate": "2025-09-30T00:00:00.000Z",
     "acceptDate": "2025-09-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "安诺优达基因科技（北京）"
   },
   {
     "id": "hk:main:107753",
@@ -4661,7 +4754,8 @@
     "updateDate": "2025-09-30T00:00:00.000Z",
     "acceptDate": "2025-09-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "博福托半导体"
   },
   {
     "id": "hk:main:107747",
@@ -4694,7 +4788,8 @@
     "updateDate": "2025-09-30T00:00:00.000Z",
     "acceptDate": "2025-09-30T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "好医生云医疗科技集团"
   },
   {
     "id": "hk:main:107742",
@@ -4716,7 +4811,8 @@
     "updateDate": "2025-09-29T00:00:00.000Z",
     "acceptDate": "2025-09-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "自然堂全球控股"
   },
   {
     "id": "hk:main:107728",
@@ -4738,7 +4834,8 @@
     "updateDate": "2025-09-29T00:00:00.000Z",
     "acceptDate": "2025-09-29T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "大金重工"
   },
   {
     "id": "hk:main:107688",
@@ -4760,7 +4857,8 @@
     "updateDate": "2025-09-28T00:00:00.000Z",
     "acceptDate": "2025-09-28T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "常州微亿智能科技"
   },
   {
     "id": "hk:main:107718",
@@ -4837,7 +4935,8 @@
     "updateDate": "2025-09-25T00:00:00.000Z",
     "acceptDate": "2025-09-25T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "晶晨半导体（上海）"
   },
   {
     "id": "hk:main:107709",
@@ -4859,7 +4958,8 @@
     "updateDate": "2025-09-25T00:00:00.000Z",
     "acceptDate": "2025-09-12T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "广东潮宏基实业"
   },
   {
     "id": "hk:main:107706",
@@ -4892,7 +4992,8 @@
     "updateDate": "2025-09-24T00:00:00.000Z",
     "acceptDate": "2025-09-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "山东宝盖新材料科技"
   },
   {
     "id": "hk:main:107701",
@@ -4914,7 +5015,8 @@
     "updateDate": "2025-09-22T00:00:00.000Z",
     "acceptDate": "2025-09-22T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "格林美"
   },
   {
     "id": "hk:main:107693",
@@ -4936,7 +5038,8 @@
     "updateDate": "2025-09-19T00:00:00.000Z",
     "acceptDate": "2025-09-19T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
+    "rawUrl": "https://www1.hkexnews.hk/app/#",
+    "nameCn": "广州若羽臣科技"
   },
   {
     "id": "hk:main:107691",

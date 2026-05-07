@@ -37,11 +37,14 @@ export default function RecentUpdates({
                       rel="noopener noreferrer"
                       className="truncate text-sm font-medium text-foreground hover:text-accent"
                     >
-                      {c.name}
+                      {c.nameCn || c.name}
                     </a>
                   ) : (
-                    <span className="truncate text-sm font-medium">{c.name}</span>
+                    <span className="truncate text-sm font-medium">{c.nameCn || c.name}</span>
                   )}
+                  {c.nameCn ? (
+                    <span className="truncate text-xs text-muted">{c.name}</span>
+                  ) : null}
                 </div>
                 <div className="mt-1 truncate text-xs text-muted">
                   <span>{MARKET_LABEL[c.market]}</span>
