@@ -1,5 +1,71 @@
 [
   {
+    "id": "hk:main:108460",
+    "name": "Chongqing Afari Technology Co., Ltd.",
+    "nameEn": "Chongqing Afari Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-08T00:00:00.000Z",
+    "acceptDate": "2026-04-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108460/documents/sehk26042702865.pdf"
+  },
+  {
+    "id": "hk:main:108462",
+    "name": "Extransfer Limited",
+    "nameEn": "Extransfer Limited - W",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-08T00:00:00.000Z",
+    "acceptDate": "2026-04-24T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108462/documents/sehk26042402872.pdf"
+  },
+  {
+    "id": "hk:main:108517",
+    "name": "GoNature Outdoor Sports Group Co., Ltd. (formerly known as Boxihe Outdoor Sports Group Co., Ltd.)",
+    "nameEn": "GoNature Outdoor Sports Group Co., Ltd. (formerly known as Boxihe Outdoor Sports Group Co., Ltd.)",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-08T00:00:00.000Z",
+    "acceptDate": "2026-05-08T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108517/documents/sehk26050801725.pdf"
+  },
+  {
+    "id": "hk:main:108515",
+    "name": "Guangdong Tinoos Group Co., Ltd.",
+    "nameEn": "Guangdong Tinoos Group Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-08T00:00:00.000Z",
+    "acceptDate": "2026-05-08T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108515/documents/sehk26050800288.pdf"
+  },
+  {
+    "id": "hk:main:108516",
+    "name": "Jiangsu Silicon Integrity Semiconductor Technology Co., Ltd.",
+    "nameEn": "Jiangsu Silicon Integrity Semiconductor Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-08T00:00:00.000Z",
+    "acceptDate": "2026-05-08T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108516/documents/sehk26050801313.pdf"
+  },
+  {
+    "id": "hk:main:108480",
+    "name": "NASN Intelligent Tech (Zhejiang) Co., Ltd.",
+    "nameEn": "NASN Intelligent Tech (Zhejiang) Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-08T00:00:00.000Z",
+    "acceptDate": "2026-04-29T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108480/documents/sehk26042903959.pdf"
+  },
+  {
     "id": "hk:main:108466",
     "name": "Carraro China Drive Systems Co., Ltd.",
     "nameEn": "Carraro China Drive Systems Co., Ltd.",
@@ -286,17 +352,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108458/documents/sehk26042202191.pdf"
   },
   {
-    "id": "hk:main:108480",
-    "name": "NASN Intelligent Tech (Zhejiang) Co., Ltd.",
-    "nameEn": "NASN Intelligent Tech (Zhejiang) Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-04-29T00:00:00.000Z",
-    "acceptDate": "2026-04-29T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108480/documents/sehk26042903959.pdf"
-  },
-  {
     "id": "hk:main:108481",
     "name": "Shanghai Buy Quickly BMax Technology Services Group Co., Ltd.",
     "nameEn": "Shanghai Buy Quickly BMax Technology Services Group Co., Ltd.",
@@ -418,17 +473,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108474/documents/sehk26042804614.pdf"
   },
   {
-    "id": "hk:main:108460",
-    "name": "Chongqing Afari Technology Co., Ltd.",
-    "nameEn": "Chongqing Afari Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-04-27T00:00:00.000Z",
-    "acceptDate": "2026-04-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108460/documents/sehk26042702865.pdf"
-  },
-  {
     "id": "hk:main:108471",
     "name": "GEM Co., Ltd.",
     "nameEn": "GEM Co., Ltd.",
@@ -493,17 +537,6 @@
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108464/documents/sehk26042404195.pdf"
-  },
-  {
-    "id": "hk:main:108462",
-    "name": "Extransfer Limited",
-    "nameEn": "Extransfer Limited - W",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-04-24T00:00:00.000Z",
-    "acceptDate": "2026-04-24T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108462/documents/sehk26042402872.pdf"
   },
   {
     "id": "hk:main:108468",
@@ -5727,28 +5760,6 @@
     "status": "suspended",
     "updateDate": "2025-05-09T00:00:00.000Z",
     "acceptDate": "2025-05-09T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107349",
-    "name": "CiDi Inc.",
-    "nameEn": "CiDi Inc.",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-08T00:00:00.000Z",
-    "acceptDate": "2025-05-08T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107348",
-    "name": "InSilico Medicine Cayman TopCo",
-    "nameEn": "InSilico Medicine Cayman TopCo",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-08T00:00:00.000Z",
-    "acceptDate": "2025-05-08T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
