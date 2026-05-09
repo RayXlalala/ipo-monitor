@@ -5751,16 +5751,5 @@
     "acceptDate": "2025-05-12T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107350",
-    "name": "Hangzhou Tongshifu Cultural and Creative (Group) Co., Ltd.",
-    "nameEn": "Hangzhou Tongshifu Cultural and Creative (Group) Co., Ltd.",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-09T00:00:00.000Z",
-    "acceptDate": "2025-05-09T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
 ]
