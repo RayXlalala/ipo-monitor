@@ -1,5 +1,16 @@
 [
   {
+    "id": "hk:main:108526",
+    "name": "DIGIWIN CO., LTD.",
+    "nameEn": "DIGIWIN CO., LTD.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-10T00:00:00.000Z",
+    "acceptDate": "2026-05-10T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108526/documents/sehk26051000200.pdf"
+  },
+  {
     "id": "hk:main:108460",
     "name": "Chongqing Afari Technology Co., Ltd.",
     "nameEn": "Chongqing Afari Technology Co., Ltd.",
@@ -1694,17 +1705,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108266/documents/sehk26030600646.pdf"
   },
   {
-    "id": "hk:main:108265",
-    "name": "SENASIC Electronics Technology Co., Ltd.",
-    "nameEn": "SENASIC Electronics Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-03-06T00:00:00.000Z",
-    "acceptDate": "2026-03-06T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108265/documents/sehk26030600295.pdf"
-  },
-  {
     "id": "hk:main:108253",
     "name": "TecDo Technology Co., Limited",
     "nameEn": "TecDo Technology Co., Limited",
@@ -2902,17 +2902,6 @@
     "acceptDate": "2026-01-19T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108108/documents/sehk26011900012.pdf"
-  },
-  {
-    "id": "hk:main:108109",
-    "name": "Viewtrix Technology Co., Ltd.",
-    "nameEn": "Viewtrix Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-01-19T00:00:00.000Z",
-    "acceptDate": "2026-01-19T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108109/documents/sehk26011901052.pdf"
   },
   {
     "id": "hk:main:108050",
@@ -4327,44 +4316,22 @@
     "name": "Axbio International Limited",
     "nameEn": "Axbio International Limited - B",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-11T00:00:00.000Z",
     "acceptDate": "2025-11-11T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107854/documents/sehk25111100592.pdf"
-  },
-  {
-    "id": "hk:main:107851",
-    "name": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
-    "nameEn": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-10T00:00:00.000Z",
-    "acceptDate": "2025-11-10T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107851/documents/sehk25111000592.pdf"
-  },
-  {
-    "id": "hk:main:107852",
-    "name": "Zhongding Intelligent (Wuxi) Technology Co., Ltd.",
-    "nameEn": "Zhongding Intelligent (Wuxi) Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-10T00:00:00.000Z",
-    "acceptDate": "2025-11-10T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107852/documents/sehk25111001364.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107850",
     "name": "Genuine Biotech Limited",
     "nameEn": "Genuine Biotech Limited - B",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-09T00:00:00.000Z",
     "acceptDate": "2025-11-09T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107850/documents/sehk25110900020.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107847",
