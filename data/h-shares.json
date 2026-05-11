@@ -1,5 +1,71 @@
 [
   {
+    "id": "hk:main:108530",
+    "name": "Guolian Green Technology (Wuxi) Co., Ltd.",
+    "nameEn": "Guolian Green Technology (Wuxi) Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-11T00:00:00.000Z",
+    "acceptDate": "2026-05-11T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108530/documents/sehk26051101903.pdf"
+  },
+  {
+    "id": "hk:main:108528",
+    "name": "HJ Science Co., Ltd.",
+    "nameEn": "HJ Science Co., Ltd. - B",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-11T00:00:00.000Z",
+    "acceptDate": "2026-05-11T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108528/documents/sehk26051101025.pdf"
+  },
+  {
+    "id": "hk:main:108470",
+    "name": "PT MNC Digital Entertainment Tbk",
+    "nameEn": "PT MNC Digital Entertainment Tbk - S",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-11T00:00:00.000Z",
+    "acceptDate": "2026-04-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108470/documents/sehk26042703383.pdf"
+  },
+  {
+    "id": "hk:main:108527",
+    "name": "Shenzhen Everwin Precision Technology Co., Ltd.",
+    "nameEn": "Shenzhen Everwin Precision Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-11T00:00:00.000Z",
+    "acceptDate": "2026-05-11T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108527/documents/sehk26051100710.pdf"
+  },
+  {
+    "id": "hk:main:108529",
+    "name": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
+    "nameEn": "Shenzhen Mindray Bio-Medical Electronics Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-11T00:00:00.000Z",
+    "acceptDate": "2026-05-11T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108529/documents/sehk26051101259.pdf"
+  },
+  {
+    "id": "hk:gem:108531",
+    "name": "Keystone Global Financial Group",
+    "nameEn": "Keystone Global Financial Group",
+    "market": "hk-gem",
+    "status": "accepted",
+    "updateDate": "2026-05-11T00:00:00.000Z",
+    "acceptDate": "2026-05-11T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/gem/2026/108531/documents/gem26051101901.pdf"
+  },
+  {
     "id": "hk:main:108526",
     "name": "DIGIWIN CO., LTD.",
     "nameEn": "DIGIWIN CO., LTD.",
@@ -515,17 +581,6 @@
     "acceptDate": "2026-04-13T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108443/documents/sehk26041301459.pdf"
-  },
-  {
-    "id": "hk:main:108470",
-    "name": "PT MNC Digital Entertainment Tbk",
-    "nameEn": "PT MNC Digital Entertainment Tbk - S",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-04-27T00:00:00.000Z",
-    "acceptDate": "2026-04-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108470/documents/sehk26042703383.pdf"
   },
   {
     "id": "hk:main:108467",
@@ -1681,17 +1736,6 @@
     "acceptDate": "2026-03-09T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108286/documents/sehk26030901003.pdf"
-  },
-  {
-    "id": "hk:main:108287",
-    "name": "Shenzhen Creality 3D Technology Co., Ltd.",
-    "nameEn": "Shenzhen Creality 3D Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-03-09T00:00:00.000Z",
-    "acceptDate": "2026-03-09T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108287/documents/sehk26030901313.pdf"
   },
   {
     "id": "hk:main:108266",
@@ -4037,17 +4081,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107923/documents/sehk25120202645.pdf"
   },
   {
-    "id": "hk:main:107917",
-    "name": "Shenzhen SDMC Technology Co., Ltd.",
-    "nameEn": "Shenzhen SDMC Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-02T00:00:00.000Z",
-    "acceptDate": "2025-12-02T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107917/documents/sehk25120200955.pdf"
-  },
-  {
     "id": "hk:main:107868",
     "name": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
     "nameEn": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
@@ -4189,17 +4222,6 @@
     "acceptDate": "2025-11-27T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107896/documents/sehk25112702043.pdf"
-  },
-  {
-    "id": "hk:main:107857",
-    "name": "Zhejiang Shimai Pharmaceutical Co., Ltd.",
-    "nameEn": "Zhejiang Shimai Pharmaceutical Co., Ltd. - B",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-26T00:00:00.000Z",
-    "acceptDate": "2025-11-12T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107857/documents/sehk25111200869.pdf"
   },
   {
     "id": "hk:main:107889",
