@@ -1,5 +1,27 @@
 [
   {
+    "id": "hk:main:108533",
+    "name": "BIWIN STORAGE TECHNOLOY CO., LTD.",
+    "nameEn": "BIWIN STORAGE TECHNOLOY CO., LTD.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-12T00:00:00.000Z",
+    "acceptDate": "2026-05-12T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108533/documents/sehk26051201579.pdf"
+  },
+  {
+    "id": "hk:main:108532",
+    "name": "Hubei DSphos Co., Ltd.",
+    "nameEn": "Hubei DSphos Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-12T00:00:00.000Z",
+    "acceptDate": "2026-05-12T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108532/documents/sehk26051200032.pdf"
+  },
+  {
     "id": "hk:main:108530",
     "name": "Guolian Green Technology (Wuxi) Co., Ltd.",
     "nameEn": "Guolian Green Technology (Wuxi) Co., Ltd.",
@@ -5727,17 +5749,6 @@
     "status": "suspended",
     "updateDate": "2025-05-15T00:00:00.000Z",
     "acceptDate": "2025-05-02T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107366",
-    "name": "Eastenova (Chengdu) Biotechnology Co., Ltd.",
-    "nameEn": "Eastenova (Chengdu) Biotechnology Co., Ltd. - B",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-12T00:00:00.000Z",
-    "acceptDate": "2025-05-12T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
