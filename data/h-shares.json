@@ -1,5 +1,49 @@
 [
   {
+    "id": "hk:main:108536",
+    "name": "Adaspace Technology Co., Ltd.",
+    "nameEn": "Adaspace Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-14T00:00:00.000Z",
+    "acceptDate": "2026-05-14T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108536/documents/sehk26051401391.pdf"
+  },
+  {
+    "id": "hk:main:108538",
+    "name": "Axbio International Limited",
+    "nameEn": "Axbio International Limited - B",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-14T00:00:00.000Z",
+    "acceptDate": "2026-05-14T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108538/documents/sehk26051401717.pdf"
+  },
+  {
+    "id": "hk:main:108539",
+    "name": "Guangdong Arcair Appliance Co., Ltd",
+    "nameEn": "Guangdong Arcair Appliance Co., Ltd",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-14T00:00:00.000Z",
+    "acceptDate": "2026-05-14T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108539/documents/sehk26051401789.pdf"
+  },
+  {
+    "id": "hk:main:108537",
+    "name": "Shenzhen Hosonsoft Co., Ltd.",
+    "nameEn": "Shenzhen Hosonsoft Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-14T00:00:00.000Z",
+    "acceptDate": "2026-05-14T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108537/documents/sehk26051401533.pdf"
+  },
+  {
     "id": "hk:main:108534",
     "name": "Ningbo Physis Technology Co., Ltd.",
     "nameEn": "Ningbo Physis Technology Co., Ltd.",
