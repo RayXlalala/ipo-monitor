@@ -1,5 +1,82 @@
 [
   {
+    "id": "hk:main:108543",
+    "name": "Grace Fabric Technology Co., Ltd.",
+    "nameEn": "Grace Fabric Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108543/documents/sehk26051501892.pdf"
+  },
+  {
+    "id": "hk:main:108542",
+    "name": "Greensun Inc.",
+    "nameEn": "Greensun Inc.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108542/documents/sehk26051501574.pdf"
+  },
+  {
+    "id": "hk:main:108545",
+    "name": "Guangdong Huacheng Electric Power Energy Co., Ltd.",
+    "nameEn": "Guangdong Huacheng Electric Power Energy Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108545/documents/sehk26051502046.pdf"
+  },
+  {
+    "id": "hk:main:108540",
+    "name": "Shandong Ande Healthcare Apparatus Co., Ltd.",
+    "nameEn": "Shandong Ande Healthcare Apparatus Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108540/documents/sehk26051500134.pdf"
+  },
+  {
+    "id": "hk:main:108541",
+    "name": "Shenzhen ADTEK Technology Co., Ltd.",
+    "nameEn": "Shenzhen ADTEK Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108541/documents/sehk26051500227.pdf"
+  },
+  {
+    "id": "hk:main:108537",
+    "name": "Shenzhen Hosonsoft Co., Ltd.",
+    "nameEn": "Shenzhen Hosonsoft Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-14T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108537/documents/sehk26051401533.pdf"
+  },
+  {
+    "id": "hk:main:108544",
+    "name": "Zhongding Intelligent (Wuxi) Technology Co., Ltd.",
+    "nameEn": "Zhongding Intelligent (Wuxi) Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-15T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108544/documents/sehk26051501734.pdf"
+  },
+  {
     "id": "hk:main:108536",
     "name": "Adaspace Technology Co., Ltd.",
     "nameEn": "Adaspace Technology Co., Ltd.",
@@ -31,17 +108,6 @@
     "acceptDate": "2026-05-14T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108539/documents/sehk26051401789.pdf"
-  },
-  {
-    "id": "hk:main:108537",
-    "name": "Shenzhen Hosonsoft Co., Ltd.",
-    "nameEn": "Shenzhen Hosonsoft Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-14T00:00:00.000Z",
-    "acceptDate": "2026-05-14T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108537/documents/sehk26051401533.pdf"
   },
   {
     "id": "hk:main:108534",
@@ -5815,17 +5881,6 @@
     "status": "suspended",
     "updateDate": "2025-05-23T00:00:00.000Z",
     "acceptDate": "2025-05-23T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107331",
-    "name": "Janbon High Tech Co., Ltd.",
-    "nameEn": "Janbon High Tech Co., Ltd.",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-15T00:00:00.000Z",
-    "acceptDate": "2025-05-02T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
