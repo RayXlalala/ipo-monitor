@@ -4235,28 +4235,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107923/documents/sehk25120202645.pdf"
   },
   {
-    "id": "hk:main:107868",
-    "name": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
-    "nameEn": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-02T00:00:00.000Z",
-    "acceptDate": "2025-11-18T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107868/documents/sehk25111801081.pdf"
-  },
-  {
-    "id": "hk:main:107866",
-    "name": "Chengdu CRP Robot Technology Co., Ltd.",
-    "nameEn": "Chengdu CRP Robot Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-01T00:00:00.000Z",
-    "acceptDate": "2025-11-17T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107866/documents/sehk25111701233.pdf"
-  },
-  {
     "id": "hk:main:107914",
     "name": "Ganzhou Hemay Pharmaceutical Co., Ltd.",
     "nameEn": "Ganzhou Hemay Pharmaceutical Co., Ltd. - B",
@@ -4299,17 +4277,6 @@
     "acceptDate": "2025-11-30T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107911/documents/sehk25113000140.pdf"
-  },
-  {
-    "id": "hk:main:107901",
-    "name": "Lung Fung Group Holdings Limited",
-    "nameEn": "Lung Fung Group Holdings Limited",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-28T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107901/documents/sehk25112802871.pdf"
   },
   {
     "id": "hk:main:107907",
@@ -4466,15 +4433,26 @@
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
+    "id": "hk:main:107866",
+    "name": "Chengdu CRP Robot Technology Co., Ltd.",
+    "nameEn": "Chengdu CRP Robot Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "suspended",
+    "updateDate": "2025-11-17T00:00:00.000Z",
+    "acceptDate": "2025-11-17T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
+  },
+  {
     "id": "hk:gem:107867",
     "name": "Henan Union Information Technology Co., Ltd",
     "nameEn": "Henan Union Information Technology Co., Ltd",
     "market": "hk-gem",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-17T00:00:00.000Z",
     "acceptDate": "2025-11-17T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/gem/2025/107867/documents/gem25111701699.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107860",
