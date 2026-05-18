@@ -1,5 +1,60 @@
 [
   {
+    "id": "hk:main:108547",
+    "name": "BrightGene Bio-Medical Technology Co., Ltd.",
+    "nameEn": "BrightGene Bio-Medical Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-18T00:00:00.000Z",
+    "acceptDate": "2026-05-18T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108547/documents/sehk26051801467.pdf"
+  },
+  {
+    "id": "hk:main:108548",
+    "name": "Guangdong Jinsheng New Energy Co., Ltd.",
+    "nameEn": "Guangdong Jinsheng New Energy Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-18T00:00:00.000Z",
+    "acceptDate": "2026-05-18T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108548/documents/sehk26051801597.pdf"
+  },
+  {
+    "id": "hk:main:108507",
+    "name": "Hangzhou Qiandaohu Xunlong Sci-tech Co., Ltd.",
+    "nameEn": "Hangzhou Qiandaohu Xunlong Sci-tech Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-18T00:00:00.000Z",
+    "acceptDate": "2026-05-04T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108507/documents/sehk26050403485.pdf"
+  },
+  {
+    "id": "hk:main:108048",
+    "name": "Inmyshow Digital Technology (Group) Co., Ltd.",
+    "nameEn": "Inmyshow Digital Technology (Group) Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-18T00:00:00.000Z",
+    "acceptDate": "2026-01-05T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108048/documents/sehk26010500772.pdf"
+  },
+  {
+    "id": "hk:main:108546",
+    "name": "Zhejiang Shimai Pharmaceutical Co., Ltd.",
+    "nameEn": "Zhejiang Shimai Pharmaceutical Co., Ltd. - B",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-18T00:00:00.000Z",
+    "acceptDate": "2026-05-18T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108546/documents/sehk26051800258.pdf"
+  },
+  {
     "id": "hk:main:108543",
     "name": "Grace Fabric Technology Co., Ltd.",
     "nameEn": "Grace Fabric Technology Co., Ltd.",
@@ -405,17 +460,6 @@
     "acceptDate": "2026-04-16T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108448/documents/sehk26041602093.pdf"
-  },
-  {
-    "id": "hk:main:108507",
-    "name": "Hangzhou Qiandaohu Xunlong Sci-tech Co., Ltd.",
-    "nameEn": "Hangzhou Qiandaohu Xunlong Sci-tech Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-04T00:00:00.000Z",
-    "acceptDate": "2026-05-04T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108507/documents/sehk26050403485.pdf"
   },
   {
     "id": "hk:main:108508",
@@ -1087,17 +1131,6 @@
     "acceptDate": "2026-03-27T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108344/documents/sehk26032704285.pdf"
-  },
-  {
-    "id": "hk:main:108430",
-    "name": "Dajin Heavy Industry Co., Ltd.",
-    "nameEn": "Dajin Heavy Industry Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-04-08T00:00:00.000Z",
-    "acceptDate": "2026-04-08T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108430/documents/sehk26040802267.pdf"
   },
   {
     "id": "hk:main:108429",
@@ -3518,17 +3551,6 @@
     "acceptDate": "2026-01-05T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108049/documents/sehk26010502867.pdf"
-  },
-  {
-    "id": "hk:main:108048",
-    "name": "Inmyshow Digital Technology (Group) Co., Ltd.",
-    "nameEn": "Inmyshow Digital Technology (Group) Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-01-05T00:00:00.000Z",
-    "acceptDate": "2026-01-05T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108048/documents/sehk26010500772.pdf"
   },
   {
     "id": "hk:main:107983",
