@@ -1,5 +1,49 @@
 [
   {
+    "id": "hk:main:108508",
+    "name": "Jiangxi Institute of Biological Products Inc.",
+    "nameEn": "Jiangxi Institute of Biological Products Inc.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-19T00:00:00.000Z",
+    "acceptDate": "2026-05-04T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108508/documents/sehk26050403723.pdf"
+  },
+  {
+    "id": "hk:main:108510",
+    "name": "Keytop Parking Inc.",
+    "nameEn": "Keytop Parking Inc.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-19T00:00:00.000Z",
+    "acceptDate": "2026-05-05T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108510/documents/sehk26050501857.pdf"
+  },
+  {
+    "id": "hk:main:108550",
+    "name": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
+    "nameEn": "Suzhou Dongshan Precision Manufacturing Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-19T00:00:00.000Z",
+    "acceptDate": "2026-05-19T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108550/documents/sehk26051901436.pdf"
+  },
+  {
+    "id": "hk:main:108549",
+    "name": "Xiaoe Inc.",
+    "nameEn": "Xiaoe Inc.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-19T00:00:00.000Z",
+    "acceptDate": "2026-05-19T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108549/documents/sehk26051901284.pdf"
+  },
+  {
     "id": "hk:main:108547",
     "name": "BrightGene Bio-Medical Technology Co., Ltd.",
     "nameEn": "BrightGene Bio-Medical Technology Co., Ltd.",
@@ -429,17 +473,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108511/documents/sehk26050600118.pdf"
   },
   {
-    "id": "hk:main:108510",
-    "name": "Keytop Parking Inc.",
-    "nameEn": "Keytop Parking Inc.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-05T00:00:00.000Z",
-    "acceptDate": "2026-05-05T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108510/documents/sehk26050501857.pdf"
-  },
-  {
     "id": "hk:main:108509",
     "name": "Alebund Pharmaceuticals (Jiangsu) Limited",
     "nameEn": "Alebund Pharmaceuticals (Jiangsu) Limited - B",
@@ -460,17 +493,6 @@
     "acceptDate": "2026-04-16T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108448/documents/sehk26041602093.pdf"
-  },
-  {
-    "id": "hk:main:108508",
-    "name": "Jiangxi Institute of Biological Products Inc.",
-    "nameEn": "Jiangxi Institute of Biological Products Inc.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-04T00:00:00.000Z",
-    "acceptDate": "2026-05-04T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108508/documents/sehk26050403723.pdf"
   },
   {
     "id": "hk:main:108506",
@@ -4202,17 +4224,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107933/documents/sehk25120402347.pdf"
   },
   {
-    "id": "hk:main:107871",
-    "name": "Mandi Inc.",
-    "nameEn": "Mandi Inc.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-04T00:00:00.000Z",
-    "acceptDate": "2025-11-20T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107871/documents/sehk25112001323.pdf"
-  },
-  {
     "id": "hk:main:107930",
     "name": "Unisplendour Corporation Limited",
     "nameEn": "Unisplendour Corporation Limited",
@@ -4343,17 +4354,6 @@
     "acceptDate": "2025-11-28T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107906/documents/sehk25112803069.pdf"
-  },
-  {
-    "id": "hk:main:107870",
-    "name": "LINGYI iTECH (GUANGDONG) COMPANY",
-    "nameEn": "LINGYI iTECH (GUANGDONG) COMPANY",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-27T00:00:00.000Z",
-    "acceptDate": "2025-11-20T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107870/documents/sehk25112000296.pdf"
   },
   {
     "id": "hk:main:107896",
