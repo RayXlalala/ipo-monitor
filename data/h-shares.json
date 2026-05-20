@@ -1,5 +1,82 @@
 [
   {
+    "id": "hk:main:108558",
+    "name": "CTG Hongkong and Macao Culture and Tourism Holding Limited",
+    "nameEn": "CTG Hongkong and Macao Culture and Tourism Holding Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-20T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/appindex.html"
+  },
+  {
+    "id": "hk:main:108512",
+    "name": "Kexing Biopharm Co., Ltd.",
+    "nameEn": "Kexing Biopharm Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-06T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108512/documents/sehk26050602893.pdf"
+  },
+  {
+    "id": "hk:main:108556",
+    "name": "Lingong Heavy Machinery Co., Ltd",
+    "nameEn": "Lingong Heavy Machinery Co., Ltd",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-20T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108556/documents/sehk26052001553.pdf"
+  },
+  {
+    "id": "hk:main:108555",
+    "name": "LINGYI iTECH (GUANGDONG) COMPANY",
+    "nameEn": "LINGYI iTECH (GUANGDONG) COMPANY",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-20T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108555/documents/sehk26052001469.pdf"
+  },
+  {
+    "id": "hk:main:108554",
+    "name": "Shanghai Guan An Information Technology Co., Ltd.",
+    "nameEn": "Shanghai Guan An Information Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-20T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108554/documents/sehk26052001369.pdf"
+  },
+  {
+    "id": "hk:main:108552",
+    "name": "Shanghai KeLiang Information Technology Co., Ltd.",
+    "nameEn": "Shanghai KeLiang Information Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-20T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108552/documents/sehk26052000951.pdf"
+  },
+  {
+    "id": "hk:main:108557",
+    "name": "Tage iDriver Technology Co., Ltd.",
+    "nameEn": "Tage iDriver Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-20T00:00:00.000Z",
+    "acceptDate": "2026-05-20T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108557/documents/sehk26052001787.pdf"
+  },
+  {
     "id": "hk:main:108508",
     "name": "Jiangxi Institute of Biological Products Inc.",
     "nameEn": "Jiangxi Institute of Biological Products Inc.",
@@ -449,17 +526,6 @@
     "acceptDate": "2026-04-24T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108463/documents/sehk26042403313.pdf"
-  },
-  {
-    "id": "hk:main:108512",
-    "name": "Kexing Biopharm Co., Ltd.",
-    "nameEn": "Kexing Biopharm Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-06T00:00:00.000Z",
-    "acceptDate": "2026-05-06T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108512/documents/sehk26050602893.pdf"
   },
   {
     "id": "hk:main:108511",
@@ -4426,11 +4492,11 @@
     "name": "HLA Group Corp., Ltd.",
     "nameEn": "HLA Group Corp., Ltd.",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-21T00:00:00.000Z",
     "acceptDate": "2025-11-21T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107872/documents/sehk25112101090.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107843",
