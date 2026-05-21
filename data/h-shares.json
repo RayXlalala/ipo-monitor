@@ -1,5 +1,38 @@
 [
   {
+    "id": "hk:main:108559",
+    "name": "Bethel Automotive Safety Systems Co., Ltd.",
+    "nameEn": "Bethel Automotive Safety Systems Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-21T00:00:00.000Z",
+    "acceptDate": "2026-05-21T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108559/documents/sehk26052100343.pdf"
+  },
+  {
+    "id": "hk:main:108561",
+    "name": "Liuliumei Co., Ltd. (formerly known as Liuliu Orchard Group Co., Ltd.)",
+    "nameEn": "Liuliumei Co., Ltd. (formerly known as Liuliu Orchard Group Co., Ltd.)",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-21T00:00:00.000Z",
+    "acceptDate": "2026-05-21T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108561/documents/sehk26052101959.pdf"
+  },
+  {
+    "id": "hk:main:108560",
+    "name": "Nanjing Silicon Intelligence Technology Group Co., Ltd.",
+    "nameEn": "Nanjing Silicon Intelligence Technology Group Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-21T00:00:00.000Z",
+    "acceptDate": "2026-05-21T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108560/documents/sehk26052101521.pdf"
+  },
+  {
     "id": "hk:main:108558",
     "name": "CTG Hongkong and Macao Culture and Tourism Holding Limited",
     "nameEn": "CTG Hongkong and Macao Culture and Tourism Holding Limited",
@@ -1683,17 +1716,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108343/documents/sehk26032703919.pdf"
   },
   {
-    "id": "hk:main:108337",
-    "name": "Beijing Shougang LanzaTech Technology Co., Ltd.",
-    "nameEn": "Beijing Shougang LanzaTech Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-03-27T00:00:00.000Z",
-    "acceptDate": "2026-03-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108337/documents/sehk26032700220.pdf"
-  },
-  {
     "id": "hk:main:108342",
     "name": "Easylive Group Inc.",
     "nameEn": "Easylive Group Inc.",
@@ -2154,17 +2176,6 @@
     "acceptDate": "2026-02-25T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108251/documents/sehk26022501103.pdf"
-  },
-  {
-    "id": "hk:main:108250",
-    "name": "LongBio Pharma (Suzhou) Co., Ltd.",
-    "nameEn": "LongBio Pharma (Suzhou) Co., Ltd. - B",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-02-25T00:00:00.000Z",
-    "acceptDate": "2026-02-25T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108250/documents/sehk26022500937.pdf"
   },
   {
     "id": "hk:main:108195",
