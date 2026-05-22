@@ -5,10 +5,76 @@
     "nameEn": "Bethel Automotive Safety Systems Co., Ltd.",
     "market": "hk-main",
     "status": "accepted",
-    "updateDate": "2026-05-21T00:00:00.000Z",
+    "updateDate": "2026-05-22T00:00:00.000Z",
     "acceptDate": "2026-05-21T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108559/documents/sehk26052100343.pdf"
+  },
+  {
+    "id": "hk:main:108565",
+    "name": "EnjoyGo Technology Limited",
+    "nameEn": "EnjoyGo Technology Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-22T00:00:00.000Z",
+    "acceptDate": "2026-05-22T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108565/documents/sehk26052202201.pdf"
+  },
+  {
+    "id": "hk:main:108564",
+    "name": "Guangdong Rong Tai Pharmaceutical Co., Ltd.",
+    "nameEn": "Guangdong Rong Tai Pharmaceutical Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-22T00:00:00.000Z",
+    "acceptDate": "2026-05-22T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108564/documents/sehk26052201995.pdf"
+  },
+  {
+    "id": "hk:main:108532",
+    "name": "Hubei DSphos Co., Ltd.",
+    "nameEn": "Hubei DSphos Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-22T00:00:00.000Z",
+    "acceptDate": "2026-05-12T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108532/documents/sehk26051200032.pdf"
+  },
+  {
+    "id": "hk:main:108516",
+    "name": "Jiangsu Silicon Integrity Semiconductor Technology Co., Ltd.",
+    "nameEn": "Jiangsu Silicon Integrity Semiconductor Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-22T00:00:00.000Z",
+    "acceptDate": "2026-05-08T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108516/documents/sehk26050801313.pdf"
+  },
+  {
+    "id": "hk:main:108563",
+    "name": "Puxiang Healthcare Holding Limited",
+    "nameEn": "Puxiang Healthcare Holding Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-22T00:00:00.000Z",
+    "acceptDate": "2026-05-22T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108563/documents/sehk26052201903.pdf"
+  },
+  {
+    "id": "hk:main:108562",
+    "name": "Sinocelltech Group Limited",
+    "nameEn": "Sinocelltech Group Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-22T00:00:00.000Z",
+    "acceptDate": "2026-05-22T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108562/documents/sehk26052201821.pdf"
   },
   {
     "id": "hk:main:108561",
@@ -363,17 +429,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108533/documents/sehk26051201579.pdf"
   },
   {
-    "id": "hk:main:108532",
-    "name": "Hubei DSphos Co., Ltd.",
-    "nameEn": "Hubei DSphos Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-12T00:00:00.000Z",
-    "acceptDate": "2026-05-12T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108532/documents/sehk26051200032.pdf"
-  },
-  {
     "id": "hk:main:108530",
     "name": "Guolian Green Technology (Wuxi) Co., Ltd.",
     "nameEn": "Guolian Green Technology (Wuxi) Co., Ltd.",
@@ -493,17 +548,6 @@
     "acceptDate": "2026-05-08T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108515/documents/sehk26050800288.pdf"
-  },
-  {
-    "id": "hk:main:108516",
-    "name": "Jiangsu Silicon Integrity Semiconductor Technology Co., Ltd.",
-    "nameEn": "Jiangsu Silicon Integrity Semiconductor Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-08T00:00:00.000Z",
-    "acceptDate": "2026-05-08T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108516/documents/sehk26050801313.pdf"
   },
   {
     "id": "hk:main:108480",
