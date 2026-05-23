@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-22T21:49:04.415Z",
+  "updatedAt": "2026-05-23T20:36:14.834Z",
   "counts": {
     "aShares": {
       "total": 1673,
       "byStatus": {
         "inquired": 158,
         "accepted": 1286,
-        "submitted": 12,
         "passed": 10,
         "effective": 94,
+        "submitted": 12,
         "terminated": 30,
         "suspended": 83
       }
     },
     "hShares": {
-      "total": 546,
+      "total": 541,
       "byStatus": {
         "accepted": 414,
-        "suspended": 132
+        "suspended": 127
       }
     }
   },
