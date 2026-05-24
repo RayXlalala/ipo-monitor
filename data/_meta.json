@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T20:36:14.834Z",
+  "updatedAt": "2026-05-24T21:14:45.738Z",
   "counts": {
     "aShares": {
       "total": 1673,
@@ -7,8 +7,8 @@
         "inquired": 158,
         "accepted": 1286,
         "passed": 10,
-        "effective": 94,
         "submitted": 12,
+        "effective": 94,
         "terminated": 30,
         "suspended": 83
       }
