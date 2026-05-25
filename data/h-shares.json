@@ -1,5 +1,60 @@
 [
   {
+    "id": "hk:main:108530",
+    "name": "Guolian Green Technology (Wuxi) Co., Ltd.",
+    "nameEn": "Guolian Green Technology (Wuxi) Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-25T00:00:00.000Z",
+    "acceptDate": "2026-05-11T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108530/documents/sehk26051101903.pdf"
+  },
+  {
+    "id": "hk:main:108569",
+    "name": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd.",
+    "nameEn": "Inner Mongolia Xingye Silver & Tin Mining Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-25T00:00:00.000Z",
+    "acceptDate": "2026-05-25T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108569/documents/sehk26052500340.pdf"
+  },
+  {
+    "id": "hk:main:108568",
+    "name": "ShanH Technology Limited",
+    "nameEn": "ShanH Technology Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-25T00:00:00.000Z",
+    "acceptDate": "2026-05-25T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108568/documents/sehk26052500266.pdf"
+  },
+  {
+    "id": "hk:main:108567",
+    "name": "Yanwen Logistics Co., Ltd.",
+    "nameEn": "Yanwen Logistics Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-25T00:00:00.000Z",
+    "acceptDate": "2026-05-25T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108567/documents/sehk26052500090.pdf"
+  },
+  {
+    "id": "hk:main:108566",
+    "name": "Zhejiang Jinlong Electrical Machinery Stock Co., Ltd.",
+    "nameEn": "Zhejiang Jinlong Electrical Machinery Stock Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-25T00:00:00.000Z",
+    "acceptDate": "2026-05-25T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108566/documents/sehk26052500248.pdf"
+  },
+  {
     "id": "hk:main:108559",
     "name": "Bethel Automotive Safety Systems Co., Ltd.",
     "nameEn": "Bethel Automotive Safety Systems Co., Ltd.",
@@ -427,17 +482,6 @@
     "acceptDate": "2026-05-12T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108533/documents/sehk26051201579.pdf"
-  },
-  {
-    "id": "hk:main:108530",
-    "name": "Guolian Green Technology (Wuxi) Co., Ltd.",
-    "nameEn": "Guolian Green Technology (Wuxi) Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-11T00:00:00.000Z",
-    "acceptDate": "2026-05-11T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108530/documents/sehk26051101903.pdf"
   },
   {
     "id": "hk:main:108528",
@@ -4279,28 +4323,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107948/documents/sehk25121000412.pdf"
   },
   {
-    "id": "hk:main:107891",
-    "name": "Chengdu Olymvax Biopharmaceuticals Inc.",
-    "nameEn": "Chengdu Olymvax Biopharmaceuticals Inc.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-09T00:00:00.000Z",
-    "acceptDate": "2025-11-25T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107891/documents/sehk25112501676.pdf"
-  },
-  {
-    "id": "hk:main:107892",
-    "name": "XGD INC.",
-    "nameEn": "XGD INC.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-09T00:00:00.000Z",
-    "acceptDate": "2025-11-26T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107892/documents/sehk25112600118.pdf"
-  },
-  {
     "id": "hk:main:107934",
     "name": "Chaozhou Three-Circle (Group) Co., Ltd.",
     "nameEn": "Chaozhou Three-Circle (Group) Co., Ltd.",
@@ -4488,59 +4510,37 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107896/documents/sehk25112702043.pdf"
   },
   {
-    "id": "hk:main:107889",
-    "name": "Terminus Smart Technology Co., Ltd. (formerly known as Chongqing Terminus Smart Technology Inc., Co., Ltd.)",
-    "nameEn": "Terminus Smart Technology Co., Ltd. (formerly known as Chongqing Terminus Smart Technology Inc., Co., Ltd.)",
+    "id": "hk:main:107891",
+    "name": "Chengdu Olymvax Biopharmaceuticals Inc.",
+    "nameEn": "Chengdu Olymvax Biopharmaceuticals Inc.",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-25T00:00:00.000Z",
     "acceptDate": "2025-11-25T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107889/documents/sehk25112501228.pdf"
-  },
-  {
-    "id": "hk:main:107890",
-    "name": "Zhejiang Zhongjian Technology Co., Ltd.",
-    "nameEn": "Zhejiang Zhongjian Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-25T00:00:00.000Z",
-    "acceptDate": "2025-11-25T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107890/documents/sehk25112501562.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107886",
     "name": "Elpiscience Biopharmaceuticals, Inc.",
     "nameEn": "Elpiscience Biopharmaceuticals, Inc. - B",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-24T00:00:00.000Z",
     "acceptDate": "2025-11-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107886/documents/sehk25112400987.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107888",
     "name": "Freetech (Zhejiang) Intelligent Technology Co., Ltd.",
     "nameEn": "Freetech (Zhejiang) Intelligent Technology Co., Ltd.",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-24T00:00:00.000Z",
     "acceptDate": "2025-11-24T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107888/documents/sehk25112401420.pdf"
-  },
-  {
-    "id": "hk:main:107887",
-    "name": "Ming Yu Pharmaceutical Limited",
-    "nameEn": "Ming Yu Pharmaceutical Limited - B",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-24T00:00:00.000Z",
-    "acceptDate": "2025-11-24T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107887/documents/sehk25112401194.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107872",
@@ -4814,17 +4814,6 @@
     "status": "suspended",
     "updateDate": "2025-10-28T00:00:00.000Z",
     "acceptDate": "2025-10-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107809",
-    "name": "Lalatech Holdings Limited",
-    "nameEn": "Lalatech Holdings Limited - W",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-10-27T00:00:00.000Z",
-    "acceptDate": "2025-10-27T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
