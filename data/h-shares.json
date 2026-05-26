@@ -1,5 +1,71 @@
 [
   {
+    "id": "hk:main:108576",
+    "name": "Shanghai Simpletouch Robot Co., Ltd.",
+    "nameEn": "Shanghai Simpletouch Robot Co., Ltd. - B",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108576/documents/sehk26052700028.pdf"
+  },
+  {
+    "id": "hk:main:108574",
+    "name": "Freetech (Zhejiang) Intelligent Technology Co., Ltd.",
+    "nameEn": "Freetech (Zhejiang) Intelligent Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-26T00:00:00.000Z",
+    "acceptDate": "2026-05-26T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108574/documents/sehk26052602073.pdf"
+  },
+  {
+    "id": "hk:main:108573",
+    "name": "HLA Group Corp., Ltd.",
+    "nameEn": "HLA Group Corp., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-26T00:00:00.000Z",
+    "acceptDate": "2026-05-26T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108573/documents/sehk26052601653.pdf"
+  },
+  {
+    "id": "hk:main:108571",
+    "name": "Ingenic Semiconductor Co., Ltd.",
+    "nameEn": "Ingenic Semiconductor Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-26T00:00:00.000Z",
+    "acceptDate": "2026-05-26T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108571/documents/sehk26052601127.pdf"
+  },
+  {
+    "id": "hk:main:108570",
+    "name": "Silvercorp Metals Inc.",
+    "nameEn": "Silvercorp Metals Inc.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-26T00:00:00.000Z",
+    "acceptDate": "2026-05-26T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108570/documents/sehk26052600208.pdf"
+  },
+  {
+    "id": "hk:main:108575",
+    "name": "Zhejiang Taotao Vehicles Co., Ltd.",
+    "nameEn": "Zhejiang Taotao Vehicles Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-26T00:00:00.000Z",
+    "acceptDate": "2026-05-26T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108575/documents/sehk26052602145.pdf"
+  },
+  {
     "id": "hk:main:108530",
     "name": "Guolian Green Technology (Wuxi) Co., Ltd.",
     "nameEn": "Guolian Green Technology (Wuxi) Co., Ltd.",
@@ -130,17 +196,6 @@
     "acceptDate": "2026-05-22T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108562/documents/sehk26052201821.pdf"
-  },
-  {
-    "id": "hk:main:108561",
-    "name": "Liuliumei Co., Ltd. (formerly known as Liuliu Orchard Group Co., Ltd.)",
-    "nameEn": "Liuliumei Co., Ltd. (formerly known as Liuliu Orchard Group Co., Ltd.)",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-21T00:00:00.000Z",
-    "acceptDate": "2026-05-21T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108561/documents/sehk26052101959.pdf"
   },
   {
     "id": "hk:main:108560",
@@ -4257,17 +4312,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107902/documents/sehk25112802521.pdf"
   },
   {
-    "id": "hk:main:107895",
-    "name": "Audiowell Electronics (Guangdong) Co., Ltd.",
-    "nameEn": "Audiowell Electronics (Guangdong) Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-11T00:00:00.000Z",
-    "acceptDate": "2025-11-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107895/documents/sehk25112701727.pdf"
-  },
-  {
     "id": "hk:main:107953",
     "name": "Guangdong Marubi Biotechnology Co., Ltd.",
     "nameEn": "Guangdong Marubi Biotechnology Co., Ltd.",
@@ -4288,28 +4332,6 @@
     "acceptDate": "2025-12-11T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107951/documents/sehk25121100120.pdf"
-  },
-  {
-    "id": "hk:main:107894",
-    "name": "Soulgate Inc.",
-    "nameEn": "Soulgate Inc.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-11T00:00:00.000Z",
-    "acceptDate": "2025-11-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107894/documents/sehk25112701629.pdf"
-  },
-  {
-    "id": "hk:main:107897",
-    "name": "AVATR Technology (Chongqing) Company Limited",
-    "nameEn": "AVATR Technology (Chongqing) Company Limited",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-10T00:00:00.000Z",
-    "acceptDate": "2025-11-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107897/documents/sehk25112701953.pdf"
   },
   {
     "id": "hk:main:107948",
@@ -4499,15 +4521,26 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107906/documents/sehk25112803069.pdf"
   },
   {
-    "id": "hk:main:107896",
-    "name": "Ningbo Haishangxian Information Technology Co., Ltd.",
-    "nameEn": "Ningbo Haishangxian Information Technology Co., Ltd.",
+    "id": "hk:main:107895",
+    "name": "Audiowell Electronics (Guangdong) Co., Ltd.",
+    "nameEn": "Audiowell Electronics (Guangdong) Co., Ltd.",
     "market": "hk-main",
-    "status": "accepted",
+    "status": "suspended",
     "updateDate": "2025-11-27T00:00:00.000Z",
     "acceptDate": "2025-11-27T00:00:00.000Z",
     "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107896/documents/sehk25112702043.pdf"
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
+  },
+  {
+    "id": "hk:main:107897",
+    "name": "AVATR Technology (Chongqing) Company Limited",
+    "nameEn": "AVATR Technology (Chongqing) Company Limited",
+    "market": "hk-main",
+    "status": "suspended",
+    "updateDate": "2025-11-27T00:00:00.000Z",
+    "acceptDate": "2025-11-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
   {
     "id": "hk:main:107891",
@@ -4726,17 +4759,6 @@
     "status": "suspended",
     "updateDate": "2025-10-31T00:00:00.000Z",
     "acceptDate": "2025-10-31T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107793",
-    "name": "Lakala Payment Co., Ltd.",
-    "nameEn": "Lakala Payment Co., Ltd.",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-10-31T00:00:00.000Z",
-    "acceptDate": "2025-10-17T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   },
@@ -5925,17 +5947,6 @@
     "status": "suspended",
     "updateDate": "2025-05-27T00:00:00.000Z",
     "acceptDate": "2025-05-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107395",
-    "name": "Beijing Sinotau International Pharmaceutical Technology Co., Ltd.",
-    "nameEn": "Beijing Sinotau International Pharmaceutical Technology Co., Ltd. - B",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-26T00:00:00.000Z",
-    "acceptDate": "2025-05-26T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
