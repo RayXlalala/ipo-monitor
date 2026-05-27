@@ -1,5 +1,49 @@
 [
   {
+    "id": "hk:main:108579",
+    "name": "Aier Eye Hospital Group Co., Ltd.",
+    "nameEn": "Aier Eye Hospital Group Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108579/documents/sehk26052701601.pdf"
+  },
+  {
+    "id": "hk:main:108581",
+    "name": "AISWEI Technology Co., Ltd.",
+    "nameEn": "AISWEI Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108581/documents/sehk26052701855.pdf"
+  },
+  {
+    "id": "hk:main:108578",
+    "name": "Elpiscience Biopharmaceuticals, Inc.",
+    "nameEn": "Elpiscience Biopharmaceuticals, Inc. - B",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108578/documents/sehk26052701531.pdf"
+  },
+  {
+    "id": "hk:main:108582",
+    "name": "Hanwei Electronics Group Corporation",
+    "nameEn": "Hanwei Electronics Group Corporation",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108582/documents/sehk26052702039.pdf"
+  },
+  {
     "id": "hk:main:108576",
     "name": "Shanghai Simpletouch Robot Co., Ltd.",
     "nameEn": "Shanghai Simpletouch Robot Co., Ltd. - B",
@@ -9,6 +53,28 @@
     "acceptDate": "2026-05-27T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108576/documents/sehk26052700028.pdf"
+  },
+  {
+    "id": "hk:main:108580",
+    "name": "Sino Medical Sciences Technology Inc.",
+    "nameEn": "Sino Medical Sciences Technology Inc.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108580/documents/sehk26052701981.pdf"
+  },
+  {
+    "id": "hk:main:108577",
+    "name": "Zhejiang Kingdom New Material Group Co., Ltd.",
+    "nameEn": "Zhejiang Kingdom New Material Group Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-27T00:00:00.000Z",
+    "acceptDate": "2026-05-27T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108577/documents/sehk26052700114.pdf"
   },
   {
     "id": "hk:main:108574",
@@ -4290,28 +4356,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107954/documents/sehk25121201753.pdf"
   },
   {
-    "id": "hk:main:107905",
-    "name": "Sublime China Information Co., Ltd.",
-    "nameEn": "Sublime China Information Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-12T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107905/documents/sehk25112803059.pdf"
-  },
-  {
-    "id": "hk:main:107902",
-    "name": "Zhejiang Zentel Memory Technology Co. LTD",
-    "nameEn": "Zhejiang Zentel Memory Technology Co. LTD",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-12T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107902/documents/sehk25112802521.pdf"
-  },
-  {
     "id": "hk:main:107953",
     "name": "Guangdong Marubi Biotechnology Co., Ltd.",
     "nameEn": "Guangdong Marubi Biotechnology Co., Ltd.",
@@ -4400,17 +4444,6 @@
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107930/documents/sehk25120302245.pdf"
   },
   {
-    "id": "hk:main:107904",
-    "name": "WUS Printed Circuit (Kunshan) Co., Ltd.",
-    "nameEn": "WUS Printed Circuit (Kunshan) Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-12-03T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107904/documents/sehk25112802785.pdf"
-  },
-  {
     "id": "hk:main:107925",
     "name": "Anker Innovations Technology Co., Ltd.",
     "nameEn": "Anker Innovations Technology Co., Ltd.",
@@ -4475,50 +4508,6 @@
     "acceptDate": "2025-11-30T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107911/documents/sehk25113000140.pdf"
-  },
-  {
-    "id": "hk:main:107907",
-    "name": "Luxvisions Innovation Technology Corp. Limited",
-    "nameEn": "Luxvisions Innovation Technology Corp. Limited",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-28T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107907/documents/sehk25112803143.pdf"
-  },
-  {
-    "id": "hk:main:107900",
-    "name": "Shanghai Keying E-Commerce Co., Ltd.",
-    "nameEn": "Shanghai Keying E-Commerce Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-28T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107900/documents/sehk25112802623.pdf"
-  },
-  {
-    "id": "hk:main:107898",
-    "name": "Shanghai Seer Intelligent Technology Co., Ltd.",
-    "nameEn": "Shanghai Seer Intelligent Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-28T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107898/documents/sehk25112800104.pdf"
-  },
-  {
-    "id": "hk:main:107906",
-    "name": "Wuxi Autolink Intelligence Tech Co., Ltd.",
-    "nameEn": "Wuxi Autolink Intelligence Tech Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2025-11-28T00:00:00.000Z",
-    "acceptDate": "2025-11-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2025/107906/documents/sehk25112803069.pdf"
   },
   {
     "id": "hk:main:107895",
@@ -5925,28 +5914,6 @@
     "status": "suspended",
     "updateDate": "2025-05-28T00:00:00.000Z",
     "acceptDate": "2025-05-28T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107398",
-    "name": "BASiC Semiconductor Co., Ltd.",
-    "nameEn": "BASiC Semiconductor Co., Ltd.",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-27T00:00:00.000Z",
-    "acceptDate": "2025-05-27T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107401",
-    "name": "FS.COM Limited",
-    "nameEn": "FS.COM Limited",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-27T00:00:00.000Z",
-    "acceptDate": "2025-05-27T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
