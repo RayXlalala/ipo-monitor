@@ -1,5 +1,104 @@
 [
   {
+    "id": "hk:main:108545",
+    "name": "Guangdong Huacheng Electric Power Energy Co., Ltd.",
+    "nameEn": "Guangdong Huacheng Electric Power Energy Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108545/documents/sehk26051502046.pdf"
+  },
+  {
+    "id": "hk:main:108588",
+    "name": "Jiangsu Zeron Automobile Technology Company Limited",
+    "nameEn": "Jiangsu Zeron Automobile Technology Company Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108588/documents/sehk26052802580.pdf"
+  },
+  {
+    "id": "hk:main:108583",
+    "name": "Lupeng Pharmaceutical Ltd.",
+    "nameEn": "Lupeng Pharmaceutical Ltd. - B",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108583/documents/sehk26052801452.pdf"
+  },
+  {
+    "id": "hk:main:108540",
+    "name": "Shandong Ande Healthcare Apparatus Co., Ltd.",
+    "nameEn": "Shandong Ande Healthcare Apparatus Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-15T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108540/documents/sehk26051500134.pdf"
+  },
+  {
+    "id": "hk:main:108584",
+    "name": "Shanghai Keying E-Commerce Co., Ltd.",
+    "nameEn": "Shanghai Keying E-Commerce Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108584/documents/sehk26052802306.pdf"
+  },
+  {
+    "id": "hk:main:108589",
+    "name": "Shanghai Seer Intelligent Technology Co., Ltd.",
+    "nameEn": "Shanghai Seer Intelligent Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108589/documents/sehk26052802656.pdf"
+  },
+  {
+    "id": "hk:main:108586",
+    "name": "Shenzhen Jiecheng New Energy Technology Co., Ltd.",
+    "nameEn": "Shenzhen Jiecheng New Energy Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108586/documents/sehk26052802742.pdf"
+  },
+  {
+    "id": "hk:main:108587",
+    "name": "Suzhou Calmcar Electronics Technology Co., Limited",
+    "nameEn": "Suzhou Calmcar Electronics Technology Co., Limited",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108587/documents/sehk26052802472.pdf"
+  },
+  {
+    "id": "hk:main:108585",
+    "name": "Yangzhou Nanopore Innovative Materials Technology Co., Ltd.",
+    "nameEn": "Yangzhou Nanopore Innovative Materials Technology Co., Ltd.",
+    "market": "hk-main",
+    "status": "accepted",
+    "updateDate": "2026-05-28T00:00:00.000Z",
+    "acceptDate": "2026-05-28T00:00:00.000Z",
+    "source": "hkex",
+    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108585/documents/sehk26052802312.pdf"
+  },
+  {
     "id": "hk:main:108579",
     "name": "Aier Eye Hospital Group Co., Ltd.",
     "nameEn": "Aier Eye Hospital Group Co., Ltd.",
@@ -471,28 +570,6 @@
     "acceptDate": "2026-05-15T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108542/documents/sehk26051501574.pdf"
-  },
-  {
-    "id": "hk:main:108545",
-    "name": "Guangdong Huacheng Electric Power Energy Co., Ltd.",
-    "nameEn": "Guangdong Huacheng Electric Power Energy Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-15T00:00:00.000Z",
-    "acceptDate": "2026-05-15T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108545/documents/sehk26051502046.pdf"
-  },
-  {
-    "id": "hk:main:108540",
-    "name": "Shandong Ande Healthcare Apparatus Co., Ltd.",
-    "nameEn": "Shandong Ande Healthcare Apparatus Co., Ltd.",
-    "market": "hk-main",
-    "status": "accepted",
-    "updateDate": "2026-05-15T00:00:00.000Z",
-    "acceptDate": "2026-05-15T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/sehk/2026/108540/documents/sehk26051500134.pdf"
   },
   {
     "id": "hk:main:108541",
@@ -5903,17 +5980,6 @@
     "status": "suspended",
     "updateDate": "2025-05-29T00:00:00.000Z",
     "acceptDate": "2025-05-29T00:00:00.000Z",
-    "source": "hkex",
-    "rawUrl": "https://www1.hkexnews.hk/app/#"
-  },
-  {
-    "id": "hk:main:107403",
-    "name": "Beijing DeepZero Technology Co., Ltd.",
-    "nameEn": "Beijing DeepZero Technology Co., Ltd.",
-    "market": "hk-main",
-    "status": "suspended",
-    "updateDate": "2025-05-28T00:00:00.000Z",
-    "acceptDate": "2025-05-28T00:00:00.000Z",
     "source": "hkex",
     "rawUrl": "https://www1.hkexnews.hk/app/#"
   }
