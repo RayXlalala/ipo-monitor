@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-07-22T19:25:14.001Z",
+  "updatedAt": "2026-07-23T19:23:45.680Z",
   "counts": {
     "aShares": {
       "total": 1865,
       "byStatus": {
+        "inquired": 329,
         "passed": 10,
-        "inquired": 316,
-        "accepted": 1346,
+        "accepted": 1333,
         "effective": 105,
         "submitted": 12,
         "terminated": 36,
@@ -22,7 +22,7 @@
     {
       "source": "hkex",
       "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www1.hkexnews.hk/app/appindex.html\", waiting until \"networkidle\"\n",
-      "at": "2026-07-22T19:25:14.001Z"
+      "at": "2026-07-23T19:23:45.680Z"
     }
   ]
 }
