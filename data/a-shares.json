@@ -1,5 +1,17 @@
 [
   {
+    "id": "em:sz-chinext:10624749",
+    "name": "深圳市墨库新材料集团股份有限公司",
+    "market": "sz-chinext",
+    "status": "accepted",
+    "industry": "化学原料及化学制品制造业",
+    "sponsor": "华泰联合证券有限责任公司",
+    "acceptDate": "2025-12-25T00:00:00.000Z",
+    "updateDate": "2026-08-22T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
+  },
+  {
     "id": "em:bse:10000868877",
     "name": "无锡鑫巨宏智能科技股份有限公司",
     "market": "bse",
@@ -3358,18 +3370,6 @@
     "updateDate": "2026-07-01T00:00:00.000Z",
     "source": "eastmoney",
     "rawUrl": "https://www.bse.cn/audit/project_news.html"
-  },
-  {
-    "id": "em:sz-chinext:10624749",
-    "name": "深圳市墨库新材料集团股份有限公司",
-    "market": "sz-chinext",
-    "status": "inquired",
-    "industry": "化学原料及化学制品制造业",
-    "sponsor": "华泰联合证券有限责任公司",
-    "acceptDate": "2025-12-25T00:00:00.000Z",
-    "updateDate": "2026-07-01T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
   },
   {
     "id": "em:sh-star:10000861895",
