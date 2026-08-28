@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T19:49:45.000Z",
+  "updatedAt": "2026-08-28T02:05:22.657Z",
   "counts": {
     "aShares": {
       "total": 1850,
@@ -23,7 +23,7 @@
     {
       "source": "hkex",
       "message": "page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www1.hkexnews.hk/app/appindex.html\", waiting until \"networkidle\"\n",
-      "at": "2026-08-26T19:49:45.000Z"
+      "at": "2026-08-28T02:05:22.657Z"
     }
   ]
 }
