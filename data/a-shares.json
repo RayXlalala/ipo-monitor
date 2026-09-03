@@ -1,5 +1,86 @@
 [
   {
+    "id": "em:bse:10000660676",
+    "name": "宁波赛维达技术股份有限公司",
+    "market": "bse",
+    "status": "inquired",
+    "industry": "专用设备制造业",
+    "sponsor": "国信证券股份有限公司",
+    "acceptDate": "2026-06-23T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://www.bse.cn/audit/project_news.html"
+  },
+  {
+    "id": "em:bse:10577782",
+    "name": "芜湖佳宏新材料股份有限公司",
+    "market": "bse",
+    "status": "passed",
+    "industry": "电气机械和器材制造业",
+    "sponsor": "东吴证券股份有限公司",
+    "acceptDate": "2025-12-15T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://www.bse.cn/audit/project_news.html"
+  },
+  {
+    "id": "em:sz-main:10000647847",
+    "name": "广东龙行天下科技股份有限公司",
+    "market": "sz-main",
+    "status": "inquired",
+    "sponsor": "招商证券",
+    "acceptDate": "2026-05-29T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
+  },
+  {
+    "id": "em:sz-chinext:10000620705",
+    "name": "苏州朗高电机科技股份有限公司",
+    "market": "sz-chinext",
+    "status": "inquired",
+    "industry": "电气机械和器材制造业",
+    "sponsor": "华泰联合证券有限责任公司",
+    "acceptDate": "2026-04-24T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
+  },
+  {
+    "id": "em:sz-chinext:10000093661",
+    "name": "宸芯科技股份有限公司",
+    "market": "sz-chinext",
+    "status": "inquired",
+    "industry": "软件和信息技术服务业",
+    "sponsor": "中信建投证券股份有限公司",
+    "acceptDate": "2026-06-30T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
+  },
+  {
+    "id": "em:sh-star:10000202575",
+    "name": "长江存储控股股份有限公司",
+    "market": "sh-star",
+    "status": "inquired",
+    "sponsor": "中信证券,中信建投",
+    "acceptDate": "2026-08-21T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://kcb.sse.com.cn/renewal/"
+  },
+  {
+    "id": "em:sh-star:10000647847",
+    "name": "广东龙行天下科技股份有限公司",
+    "market": "sh-star",
+    "status": "inquired",
+    "sponsor": "招商证券",
+    "acceptDate": "2026-05-29T00:00:00.000Z",
+    "updateDate": "2026-09-03T00:00:00.000Z",
+    "source": "eastmoney",
+    "rawUrl": "https://kcb.sse.com.cn/renewal/"
+  },
+  {
     "id": "em:bse:10000868877",
     "name": "无锡鑫巨宏智能科技股份有限公司",
     "market": "bse",
@@ -341,17 +422,6 @@
     "updateDate": "2026-08-21T00:00:00.000Z",
     "source": "eastmoney",
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
-    "id": "em:sh-star:10000202575",
-    "name": "长江存储控股股份有限公司",
-    "market": "sh-star",
-    "status": "accepted",
-    "sponsor": "中信建投,中信证券",
-    "acceptDate": "2026-08-21T00:00:00.000Z",
-    "updateDate": "2026-08-21T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://kcb.sse.com.cn/renewal/"
   },
   {
     "id": "em:sh-star:10000729619",
@@ -1408,18 +1478,6 @@
     "industry": "非金属矿物制品业",
     "sponsor": "国泰海通证券股份有限公司",
     "acceptDate": "2026-06-18T00:00:00.000Z",
-    "updateDate": "2026-07-23T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
-    "id": "em:sz-chinext:10000620705",
-    "name": "苏州朗高电机科技股份有限公司",
-    "market": "sz-chinext",
-    "status": "inquired",
-    "industry": "电气机械和器材制造业",
-    "sponsor": "华泰联合证券有限责任公司",
-    "acceptDate": "2026-04-24T00:00:00.000Z",
     "updateDate": "2026-07-23T00:00:00.000Z",
     "source": "eastmoney",
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
@@ -2569,7 +2627,7 @@
     "name": "北京天科合达半导体股份有限公司",
     "market": "sh-star",
     "status": "inquired",
-    "sponsor": "中金公司,国开证券",
+    "sponsor": "国开证券,中金公司",
     "acceptDate": "2026-06-30T00:00:00.000Z",
     "updateDate": "2026-07-14T00:00:00.000Z",
     "source": "eastmoney",
@@ -2717,18 +2775,6 @@
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
   },
   {
-    "id": "em:sz-chinext:10000093661",
-    "name": "宸芯科技股份有限公司",
-    "market": "sz-chinext",
-    "status": "inquired",
-    "industry": "软件和信息技术服务业",
-    "sponsor": "中信建投证券股份有限公司",
-    "acceptDate": "2026-06-30T00:00:00.000Z",
-    "updateDate": "2026-07-12T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
     "id": "em:sz-chinext:10000546174",
     "name": "浙江正雅齿科股份有限公司",
     "market": "sz-chinext",
@@ -2769,7 +2815,7 @@
     "name": "北京华卓精科科技股份有限公司",
     "market": "sh-star",
     "status": "inquired",
-    "sponsor": "东兴证券,招商证券",
+    "sponsor": "招商证券,东兴证券",
     "acceptDate": "2026-06-30T00:00:00.000Z",
     "updateDate": "2026-07-12T00:00:00.000Z",
     "source": "eastmoney",
@@ -4190,18 +4236,6 @@
     "rawUrl": "https://kcb.sse.com.cn/renewal/"
   },
   {
-    "id": "em:bse:10000660676",
-    "name": "宁波赛维达技术股份有限公司",
-    "market": "bse",
-    "status": "accepted",
-    "industry": "专用设备制造业",
-    "sponsor": "国信证券股份有限公司",
-    "acceptDate": "2026-06-23T00:00:00.000Z",
-    "updateDate": "2026-06-23T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://www.bse.cn/audit/project_news.html"
-  },
-  {
     "id": "em:bse:10000524965",
     "name": "上海提牛科技股份有限公司",
     "market": "bse",
@@ -4357,34 +4391,12 @@
     "rawUrl": "https://www.bse.cn/audit/project_news.html"
   },
   {
-    "id": "em:sz-main:10000647847",
-    "name": "广东龙行天下科技股份有限公司",
-    "market": "sz-main",
-    "status": "inquired",
-    "sponsor": "招商证券",
-    "acceptDate": "2026-05-29T00:00:00.000Z",
-    "updateDate": "2026-06-18T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
     "id": "em:sh-star:10397723",
     "name": "思必驰科技股份有限公司",
     "market": "sh-star",
     "status": "inquired",
     "sponsor": "东吴证券,中信证券",
     "acceptDate": "2026-05-25T00:00:00.000Z",
-    "updateDate": "2026-06-18T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://kcb.sse.com.cn/renewal/"
-  },
-  {
-    "id": "em:sh-star:10000647847",
-    "name": "广东龙行天下科技股份有限公司",
-    "market": "sh-star",
-    "status": "inquired",
-    "sponsor": "招商证券",
-    "acceptDate": "2026-05-29T00:00:00.000Z",
     "updateDate": "2026-06-18T00:00:00.000Z",
     "source": "eastmoney",
     "rawUrl": "https://kcb.sse.com.cn/renewal/"
@@ -4476,7 +4488,7 @@
     "name": "无锡市好达电子股份有限公司",
     "market": "sh-star",
     "status": "inquired",
-    "sponsor": "国联民生证券承销保荐,国投证券",
+    "sponsor": "国投证券,国联民生证券承销保荐",
     "acceptDate": "2026-06-02T00:00:00.000Z",
     "updateDate": "2026-06-16T00:00:00.000Z",
     "source": "eastmoney",
@@ -4499,7 +4511,7 @@
     "name": "上海海和药物研究开发股份有限公司",
     "market": "sh-star",
     "status": "inquired",
-    "sponsor": "国泰海通,国金证券",
+    "sponsor": "国金证券,国泰海通",
     "acceptDate": "2026-05-28T00:00:00.000Z",
     "updateDate": "2026-06-15T00:00:00.000Z",
     "source": "eastmoney",
@@ -4510,7 +4522,7 @@
     "name": "长鑫科技集团股份有限公司",
     "market": "sh-star",
     "status": "effective",
-    "sponsor": "中信建投,中金公司",
+    "sponsor": "中金公司,中信建投",
     "acceptDate": "2025-12-30T00:00:00.000Z",
     "updateDate": "2026-06-15T00:00:00.000Z",
     "source": "eastmoney",
@@ -4579,7 +4591,7 @@
     "name": "广东中图半导体科技股份有限公司",
     "market": "sh-star",
     "status": "inquired",
-    "sponsor": "国泰海通,申万宏源证券承销保荐",
+    "sponsor": "申万宏源证券承销保荐,国泰海通",
     "acceptDate": "2025-12-31T00:00:00.000Z",
     "updateDate": "2026-06-12T00:00:00.000Z",
     "source": "eastmoney",
@@ -4929,7 +4941,7 @@
     "name": "武汉新芯集成电路股份有限公司",
     "market": "sh-star",
     "status": "terminated",
-    "sponsor": "华源证券,国泰海通",
+    "sponsor": "国泰海通,华源证券",
     "acceptDate": "2024-09-30T00:00:00.000Z",
     "updateDate": "2026-05-19T00:00:00.000Z",
     "source": "eastmoney",
@@ -5116,7 +5128,7 @@
     "name": "上海兆芯集成电路股份有限公司",
     "market": "sh-star",
     "status": "inquired",
-    "sponsor": "东方证券,国泰海通",
+    "sponsor": "国泰海通,东方证券",
     "acceptDate": "2025-06-17T00:00:00.000Z",
     "updateDate": "2026-05-06T00:00:00.000Z",
     "source": "eastmoney",
@@ -6498,18 +6510,6 @@
     "updateDate": "2026-01-13T00:00:00.000Z",
     "source": "eastmoney",
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
-    "id": "em:bse:10577782",
-    "name": "芜湖佳宏新材料股份有限公司",
-    "market": "bse",
-    "status": "inquired",
-    "industry": "电气机械和器材制造业",
-    "sponsor": "东吴证券股份有限公司",
-    "acceptDate": "2025-12-15T00:00:00.000Z",
-    "updateDate": "2026-01-12T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://www.bse.cn/audit/project_news.html"
   },
   {
     "id": "em:sz-main:10000451593",
@@ -19628,6 +19628,14 @@
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
   },
   {
+    "id": "em:sz-main:10702684",
+    "name": "珠海菲高科技股份有限公司",
+    "market": "sz-main",
+    "status": "accepted",
+    "source": "eastmoney",
+    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
+  },
+  {
     "id": "em:sz-main:10994068",
     "name": "山东达民化工股份有限公司",
     "market": "sz-main",
@@ -20220,14 +20228,6 @@
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
   },
   {
-    "id": "em:sz-main:10039998",
-    "name": "徐州巴特工程机械股份有限公司",
-    "market": "sz-main",
-    "status": "accepted",
-    "source": "eastmoney",
-    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
     "id": "em:sz-main:10499186",
     "name": "广州尚航信息科技股份有限公司",
     "market": "sz-main",
@@ -20478,14 +20478,6 @@
   {
     "id": "em:sz-main:10000440121",
     "name": "安徽国电电缆股份有限公司",
-    "market": "sz-main",
-    "status": "accepted",
-    "source": "eastmoney",
-    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
-  },
-  {
-    "id": "em:sz-main:10000076684",
-    "name": "浙江千禧龙纤特种纤维股份有限公司",
     "market": "sz-main",
     "status": "accepted",
     "source": "eastmoney",
@@ -20951,6 +20943,14 @@
   {
     "id": "em:sz-main:10508352",
     "name": "上海林果实业股份有限公司",
+    "market": "sz-main",
+    "status": "accepted",
+    "source": "eastmoney",
+    "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
+  },
+  {
+    "id": "em:sz-main:10000928330",
+    "name": "陕西恒凯新能源股份有限公司",
     "market": "sz-main",
     "status": "accepted",
     "source": "eastmoney",
