@@ -5579,17 +5579,6 @@
     "rawUrl": "https://listing.szse.cn/disclosure/ipo/index.html"
   },
   {
-    "id": "em:sh-star:10000558472",
-    "name": "上海芯密科技股份有限公司",
-    "market": "sh-star",
-    "status": "terminated",
-    "sponsor": "国金证券",
-    "acceptDate": "2025-06-16T00:00:00.000Z",
-    "updateDate": "2026-03-31T00:00:00.000Z",
-    "source": "eastmoney",
-    "rawUrl": "https://kcb.sse.com.cn/renewal/"
-  },
-  {
     "id": "em:sh-star:10000268985",
     "name": "企查查科技股份有限公司",
     "market": "sh-star",
